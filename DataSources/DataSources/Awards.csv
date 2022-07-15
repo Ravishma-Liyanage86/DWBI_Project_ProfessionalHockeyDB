@@ -1,0 +1,2092 @@
+playerID,award,year,lgID,pos,awardID
+malonjo01,Art Ross,1917,NHL,,1
+cleghod01,Art Ross,1918,NHL,,2
+malonjo01,Art Ross,1919,NHL,,3
+lalonne01,Art Ross,1920,NHL,,4
+broadpu01,Art Ross,1921,NHL,,5
+dyeba01,Art Ross,1922,NHL,,6
+dennecy01,Art Ross,1923,NHL,,7
+nighbfr01,Hart,1923,NHL,,8
+dyeba01,Art Ross,1924,NHL,,9
+burchbi01,Hart,1924,NHL,,10
+nighbfr01,Lady Byng,1924,NHL,,11
+stewane01,Art Ross,1925,NHL,,12
+stewane01,Hart,1925,NHL,,13
+nighbfr01,Lady Byng,1925,NHL,,14
+cookbi01,Art Ross,1926,NHL,,15
+gardihe01,Hart,1926,NHL,,16
+burchbi01,Lady Byng,1926,NHL,,17
+hainsge01,Vezina,1926,NHL,,18
+morenho01,Art Ross,1927,NHL,,19
+morenho01,Hart,1927,NHL,,20
+bouchfr01,Lady Byng,1927,NHL,,21
+hainsge01,Vezina,1927,NHL,,22
+baileac01,Art Ross,1928,NHL,,23
+wortero01,Hart,1928,NHL,,24
+bouchfr01,Lady Byng,1928,NHL,,25
+hainsge01,Vezina,1928,NHL,,26
+weilaco01,Art Ross,1929,NHL,,27
+stewane01,Hart,1929,NHL,,28
+bouchfr01,Lady Byng,1929,NHL,,29
+thompti01,Vezina,1929,NHL,,30
+morenho01,Art Ross,1930,NHL,,31
+clancki01,First Team All-Star,1930,NHL,D,32
+cookbi01,First Team All-Star,1930,NHL,RW,33
+gardich01,First Team All-Star,1930,NHL,G,34
+joliaau01,First Team All-Star,1930,NHL,LW,35
+morenho01,First Team All-Star,1930,NHL,C,36
+shoreed01,First Team All-Star,1930,NHL,D,37
+morenho01,Hart,1930,NHL,,38
+bouchfr01,Lady Byng,1930,NHL,,39
+bouchfr01,Second Team All-Star,1930,NHL,C,40
+clappdi01,Second Team All-Star,1930,NHL,RW,41
+cookbu01,Second Team All-Star,1930,NHL,LW,42
+johnsch01,Second Team All-Star,1930,NHL,D,43
+manthsy01,Second Team All-Star,1930,NHL,D,44
+thompti01,Second Team All-Star,1930,NHL,G,45
+wortero01,Vezina,1930,NHL,,46
+jacksbu01,Art Ross,1931,NHL,,47
+cookbi01,First Team All-Star,1931,NHL,RW,48
+gardich01,First Team All-Star,1931,NHL,G,49
+jacksbu01,First Team All-Star,1931,NHL,LW,50
+johnsch01,First Team All-Star,1931,NHL,D,51
+morenho01,First Team All-Star,1931,NHL,C,52
+shoreed01,First Team All-Star,1931,NHL,D,53
+morenho01,Hart,1931,NHL,,54
+primejo01,Lady Byng,1931,NHL,,55
+clancki01,Second Team All-Star,1931,NHL,D,56
+conacch01,Second Team All-Star,1931,NHL,RW,57
+joliaau01,Second Team All-Star,1931,NHL,LW,58
+manthsy01,Second Team All-Star,1931,NHL,D,59
+smithho01,Second Team All-Star,1931,NHL,C,60
+wortero01,Second Team All-Star,1931,NHL,G,61
+gardich01,Vezina,1931,NHL,,62
+cookbi01,Art Ross,1932,NHL,,63
+vossca01,Calder,1932,NHL,,64
+bouchfr01,First Team All-Star,1932,NHL,C,65
+cookbi01,First Team All-Star,1932,NHL,RW,66
+johnsch01,First Team All-Star,1932,NHL,D,67
+northba01,First Team All-Star,1932,NHL,LW,68
+roachjo01,First Team All-Star,1932,NHL,G,69
+shoreed01,First Team All-Star,1932,NHL,D,70
+shoreed01,Hart,1932,NHL,,71
+bouchfr01,Lady Byng,1932,NHL,,72
+clancki01,Second Team All-Star,1932,NHL,D,73
+conacch01,Second Team All-Star,1932,NHL,RW,74
+conacli01,Second Team All-Star,1932,NHL,D,75
+gardich01,Second Team All-Star,1932,NHL,G,76
+jacksbu01,Second Team All-Star,1932,NHL,LW,77
+morenho01,Second Team All-Star,1932,NHL,C,78
+thompti01,Vezina,1932,NHL,,79
+conacch01,Art Ross,1933,NHL,,80
+blincru01,Calder,1933,NHL,,81
+bouchfr01,First Team All-Star,1933,NHL,C,82
+clancki01,First Team All-Star,1933,NHL,D,83
+conacch01,First Team All-Star,1933,NHL,RW,84
+conacli01,First Team All-Star,1933,NHL,D,85
+gardich01,First Team All-Star,1933,NHL,G,86
+jacksbu01,First Team All-Star,1933,NHL,LW,87
+joliaau01,Hart,1933,NHL,,88
+bouchfr01,Lady Byng,1933,NHL,,89
+cookbi01,Second Team All-Star,1933,NHL,RW,90
+johnsch01,Second Team All-Star,1933,NHL,D,91
+joliaau01,Second Team All-Star,1933,NHL,LW,92
+primejo01,Second Team All-Star,1933,NHL,C,93
+shoreed01,Second Team All-Star,1933,NHL,D,94
+wortero01,Second Team All-Star,1933,NHL,G,95
+gardich01,Vezina,1933,NHL,,96
+conacch01,Art Ross,1934,NHL,,97
+schrisw01,Calder,1934,NHL,,98
+bouchfr01,First Team All-Star,1934,NHL,C,99
+chabolo01,First Team All-Star,1934,NHL,G,100
+conacch01,First Team All-Star,1934,NHL,RW,101
+jacksbu01,First Team All-Star,1934,NHL,LW,102
+seibeea01,First Team All-Star,1934,NHL,D,103
+shoreed01,First Team All-Star,1934,NHL,D,104
+shoreed01,Hart,1934,NHL,,105
+bouchfr01,Lady Byng,1934,NHL,,106
+clappdi01,Second Team All-Star,1934,NHL,RW,107
+coultar01,Second Team All-Star,1934,NHL,D,108
+joliaau01,Second Team All-Star,1934,NHL,LW,109
+thompti01,Second Team All-Star,1934,NHL,G,110
+weilaco01,Second Team All-Star,1934,NHL,C,111
+wentwcy01,Second Team All-Star,1934,NHL,D,112
+chabolo01,Vezina,1934,NHL,,113
+schrisw01,Art Ross,1935,NHL,,114
+karakmi01,Calder,1935,NHL,,115
+conacch01,First Team All-Star,1935,NHL,RW,116
+schrisw01,First Team All-Star,1935,NHL,LW,117
+shoreed01,First Team All-Star,1935,NHL,D,118
+siebeba01,First Team All-Star,1935,NHL,D,119
+smithho01,First Team All-Star,1935,NHL,C,120
+thompti01,First Team All-Star,1935,NHL,G,121
+shoreed01,Hart,1935,NHL,,122
+romnedo01,Lady Byng,1935,NHL,,123
+cudewi01,Second Team All-Star,1935,NHL,G,124
+dilloce01,Second Team All-Star,1935,NHL,RW,125
+goodfeb01,Second Team All-Star,1935,NHL,D,126
+seibeea01,Second Team All-Star,1935,NHL,D,127
+thomppa01,Second Team All-Star,1935,NHL,LW,128
+thomsbi02,Second Team All-Star,1935,NHL,C,129
+thompti01,Vezina,1935,NHL,,130
+schrisw01,Art Ross,1936,NHL,,131
+appssy01,Calder,1936,NHL,,132
+auriela01,First Team All-Star,1936,NHL,RW,133
+barryma01,First Team All-Star,1936,NHL,C,134
+goodfeb01,First Team All-Star,1936,NHL,D,135
+jacksbu01,First Team All-Star,1936,NHL,LW,136
+siebeba01,First Team All-Star,1936,NHL,D,137
+smithno01,First Team All-Star,1936,NHL,G,138
+siebeba01,Hart,1936,NHL,,139
+barryma01,Lady Byng,1936,NHL,,140
+chapmar01,Second Team All-Star,1936,NHL,C,141
+conacli01,Second Team All-Star,1936,NHL,D,142
+cudewi01,Second Team All-Star,1936,NHL,G,143
+dilloce01,Second Team All-Star,1936,NHL,RW,144
+schrisw01,Second Team All-Star,1936,NHL,LW,145
+seibeea01,Second Team All-Star,1936,NHL,D,146
+smithno01,Vezina,1936,NHL,,147
+drillgo01,Art Ross,1937,NHL,,148
+dahlscu01,Calder,1937,NHL,,149
+cowlebi01,First Team All-Star,1937,NHL,C,150
+dilloce01,First Team All-Star,1937,NHL,RW,151
+drillgo01,First Team All-Star,1937,NHL,RW,152
+shoreed01,First Team All-Star,1937,NHL,D,153
+siebeba01,First Team All-Star,1937,NHL,D,154
+thomppa01,First Team All-Star,1937,NHL,LW,155
+thompti01,First Team All-Star,1937,NHL,G,156
+shoreed01,Hart,1937,NHL,,157
+drillgo01,Lady Byng,1937,NHL,,158
+appssy01,Second Team All-Star,1937,NHL,C,159
+blaketo01,Second Team All-Star,1937,NHL,LW,160
+coultar01,Second Team All-Star,1937,NHL,D,161
+kerrda01,Second Team All-Star,1937,NHL,G,162
+seibeea01,Second Team All-Star,1937,NHL,D,163
+thompti01,Vezina,1937,NHL,,164
+blaketo01,Art Ross,1938,NHL,,165
+brimsfr01,Calder,1938,NHL,,166
+appssy01,First Team All-Star,1938,NHL,C,167
+blaketo01,First Team All-Star,1938,NHL,LW,168
+brimsfr01,First Team All-Star,1938,NHL,G,169
+clappdi01,First Team All-Star,1938,NHL,D,170
+drillgo01,First Team All-Star,1938,NHL,RW,171
+shoreed01,First Team All-Star,1938,NHL,D,172
+blaketo01,Hart,1938,NHL,,173
+smithcl01,Lady Byng,1938,NHL,,174
+bauerbo01,Second Team All-Star,1938,NHL,RW,175
+colvine01,Second Team All-Star,1938,NHL,C,176
+coultar01,Second Team All-Star,1938,NHL,D,177
+gottsjo01,Second Team All-Star,1938,NHL,LW,178
+robinea01,Second Team All-Star,1938,NHL,G,179
+seibeea01,Second Team All-Star,1938,NHL,D,180
+brimsfr01,Vezina,1938,NHL,,181
+schmimi01,Art Ross,1939,NHL,,182
+macdoki01,Calder,1939,NHL,,183
+blaketo01,First Team All-Star,1939,NHL,LW,184
+clappdi01,First Team All-Star,1939,NHL,D,185
+goodfeb01,First Team All-Star,1939,NHL,D,186
+hextabr01,First Team All-Star,1939,NHL,RW,187
+kerrda01,First Team All-Star,1939,NHL,G,188
+schmimi01,First Team All-Star,1939,NHL,C,189
+goodfeb01,Hart,1939,NHL,,190
+bauerbo01,Lady Byng,1939,NHL,,191
+bauerbo01,Second Team All-Star,1939,NHL,RW,192
+brimsfr01,Second Team All-Star,1939,NHL,G,193
+colvine01,Second Team All-Star,1939,NHL,C,194
+coultar01,Second Team All-Star,1939,NHL,D,195
+dumarwo01,Second Team All-Star,1939,NHL,LW,196
+seibeea01,Second Team All-Star,1939,NHL,D,197
+kerrda01,Vezina,1939,NHL,,198
+cowlebi01,Art Ross,1940,NHL,,199
+quiltjo01,Calder,1940,NHL,,200
+brodatu01,First Team All-Star,1940,NHL,G,201
+clappdi01,First Team All-Star,1940,NHL,D,202
+cowlebi01,First Team All-Star,1940,NHL,C,203
+hextabr01,First Team All-Star,1940,NHL,RW,204
+schrisw01,First Team All-Star,1940,NHL,LW,205
+stanowa01,First Team All-Star,1940,NHL,D,206
+cowlebi01,Hart,1940,NHL,,207
+bauerbo01,Lady Byng,1940,NHL,,208
+appssy01,Second Team All-Star,1940,NHL,C,209
+bauerbo01,Second Team All-Star,1940,NHL,RW,210
+brimsfr01,Second Team All-Star,1940,NHL,G,211
+dumarwo01,Second Team All-Star,1940,NHL,LW,212
+helleot01,Second Team All-Star,1940,NHL,D,213
+seibeea01,Second Team All-Star,1940,NHL,D,214
+brodatu01,Vezina,1940,NHL,,215
+hextabr01,Art Ross,1941,NHL,,216
+warwigr01,Calder,1941,NHL,,217
+anderto01,First Team All-Star,1941,NHL,D,218
+appssy01,First Team All-Star,1941,NHL,C,219
+brimsfr01,First Team All-Star,1941,NHL,G,220
+hextabr01,First Team All-Star,1941,NHL,RW,221
+patrily01,First Team All-Star,1941,NHL,LW,222
+seibeea01,First Team All-Star,1941,NHL,D,223
+anderto01,Hart,1941,NHL,,224
+appssy01,Lady Byng,1941,NHL,,225
+abelsi01,Second Team All-Star,1941,NHL,LW,226
+brodatu01,Second Team All-Star,1941,NHL,G,227
+drillgo01,Second Team All-Star,1941,NHL,RW,228
+eganpa01,Second Team All-Star,1941,NHL,D,229
+mcdonbu01,Second Team All-Star,1941,NHL,D,230
+watsoph01,Second Team All-Star,1941,NHL,C,231
+brimsfr01,Vezina,1941,NHL,,232
+bentldo01,Art Ross,1942,NHL,,233
+stewaga01,Calder,1942,NHL,,234
+bentldo01,First Team All-Star,1942,NHL,LW,235
+carrlo01,First Team All-Star,1942,NHL,RW,236
+cowlebi01,First Team All-Star,1942,NHL,C,237
+mowerjo01,First Team All-Star,1942,NHL,G,238
+seibeea01,First Team All-Star,1942,NHL,D,239
+stewaja01,First Team All-Star,1942,NHL,D,240
+cowlebi01,Hart,1942,NHL,,241
+bentlma01,Lady Byng,1942,NHL,,242
+appssy01,Second Team All-Star,1942,NHL,C,243
+brimsfr01,Second Team All-Star,1942,NHL,G,244
+crawfja01,Second Team All-Star,1942,NHL,D,245
+hextabr01,Second Team All-Star,1942,NHL,RW,246
+hollefl01,Second Team All-Star,1942,NHL,D,247
+patrily01,Second Team All-Star,1942,NHL,LW,248
+mowerjo01,Vezina,1942,NHL,,249
+cainhe01,Art Ross,1943,NHL,,250
+bodnagu01,Calder,1943,NHL,,251
+bentldo01,First Team All-Star,1943,NHL,LW,252
+carrlo01,First Team All-Star,1943,NHL,RW,253
+cowlebi01,First Team All-Star,1943,NHL,C,254
+durnabi01,First Team All-Star,1943,NHL,G,255
+prattba01,First Team All-Star,1943,NHL,D,256
+seibeea01,First Team All-Star,1943,NHL,D,257
+prattba01,Hart,1943,NHL,,258
+smithcl01,Lady Byng,1943,NHL,,259
+bibeapa01,Second Team All-Star,1943,NHL,G,260
+bouchbu01,Second Team All-Star,1943,NHL,D,261
+cainhe01,Second Team All-Star,1943,NHL,LW,262
+clappdi01,Second Team All-Star,1943,NHL,D,263
+lachel01,Second Team All-Star,1943,NHL,C,264
+richama01,Second Team All-Star,1943,NHL,RW,265
+durnabi01,Vezina,1943,NHL,,266
+lachel01,Art Ross,1944,NHL,,267
+mccoofr01,Calder,1944,NHL,,268
+blaketo01,First Team All-Star,1944,NHL,LW,269
+bouchbu01,First Team All-Star,1944,NHL,D,270
+durnabi01,First Team All-Star,1944,NHL,G,271
+hollefl01,First Team All-Star,1944,NHL,D,272
+lachel01,First Team All-Star,1944,NHL,C,273
+richama01,First Team All-Star,1944,NHL,RW,274
+lachel01,Hart,1944,NHL,,275
+mosiebi01,Lady Byng,1944,NHL,,276
+cowlebi01,Second Team All-Star,1944,NHL,C,277
+harmogl01,Second Team All-Star,1944,NHL,D,278
+howesy01,Second Team All-Star,1944,NHL,LW,279
+karakmi01,Second Team All-Star,1944,NHL,G,280
+mosiebi01,Second Team All-Star,1944,NHL,RW,281
+prattba01,Second Team All-Star,1944,NHL,D,282
+durnabi01,Vezina,1944,NHL,,283
+bentlma01,Art Ross,1945,NHL,,284
+lapraed01,Calder,1945,NHL,,285
+bentlma01,First Team All-Star,1945,NHL,C,286
+bouchbu01,First Team All-Star,1945,NHL,D,287
+crawfja01,First Team All-Star,1945,NHL,D,288
+durnabi01,First Team All-Star,1945,NHL,G,289
+richama01,First Team All-Star,1945,NHL,RW,290
+stewaga01,First Team All-Star,1945,NHL,LW,291
+bentlma01,Hart,1945,NHL,,292
+blaketo01,Lady Byng,1945,NHL,,293
+blaketo01,Second Team All-Star,1945,NHL,LW,294
+brimsfr01,Second Team All-Star,1945,NHL,G,295
+lachel01,Second Team All-Star,1945,NHL,C,296
+mosiebi01,Second Team All-Star,1945,NHL,RW,297
+reardke01,Second Team All-Star,1945,NHL,D,298
+stewaja01,Second Team All-Star,1945,NHL,D,299
+durnabi01,Vezina,1945,NHL,,300
+bentlma01,Art Ross,1946,NHL,,301
+meekeho01,Calder,1946,NHL,,302
+bentldo01,First Team All-Star,1946,NHL,LW,303
+bouchbu01,First Team All-Star,1946,NHL,D,304
+durnabi01,First Team All-Star,1946,NHL,G,305
+reardke01,First Team All-Star,1946,NHL,D,306
+richama01,First Team All-Star,1946,NHL,RW,307
+schmimi01,First Team All-Star,1946,NHL,C,308
+richama01,Hart,1946,NHL,,309
+bauerbo01,Lady Byng,1946,NHL,,310
+bauerbo01,Second Team All-Star,1946,NHL,RW,311
+bentlma01,Second Team All-Star,1946,NHL,C,312
+brimsfr01,Second Team All-Star,1946,NHL,G,313
+dumarwo01,Second Team All-Star,1946,NHL,LW,314
+quackbi01,Second Team All-Star,1946,NHL,D,315
+stewaja01,Second Team All-Star,1946,NHL,D,316
+durnabi01,Vezina,1946,NHL,,317
+lachel01,Art Ross,1947,NHL,,318
+mcfadji01,Calder,1947,NHL,,319
+brodatu01,First Team All-Star,1947,NHL,G,320
+lachel01,First Team All-Star,1947,NHL,C,321
+lindste01,First Team All-Star,1947,NHL,LW,322
+quackbi01,First Team All-Star,1947,NHL,D,323
+richama01,First Team All-Star,1947,NHL,RW,324
+stewaja01,First Team All-Star,1947,NHL,D,325
+oconnbu01,Hart,1947,NHL,,326
+oconnbu01,Lady Byng,1947,NHL,,327
+brimsfr01,Second Team All-Star,1947,NHL,G,328
+colvine01,Second Team All-Star,1947,NHL,D,329
+oconnbu01,Second Team All-Star,1947,NHL,C,330
+poilebu01,Second Team All-Star,1947,NHL,RW,331
+reardke01,Second Team All-Star,1947,NHL,D,332
+stewaga01,Second Team All-Star,1947,NHL,LW,333
+brodatu01,Vezina,1947,NHL,,334
+conacro01,Art Ross,1948,NHL,,335
+lundpe01,Calder,1948,NHL,,336
+abelsi01,First Team All-Star,1948,NHL,C,337
+conacro01,First Team All-Star,1948,NHL,LW,338
+durnabi01,First Team All-Star,1948,NHL,G,339
+quackbi01,First Team All-Star,1948,NHL,D,340
+richama01,First Team All-Star,1948,NHL,RW,341
+stewaja01,First Team All-Star,1948,NHL,D,342
+abelsi01,Hart,1948,NHL,,343
+quackbi01,Lady Byng,1948,NHL,,344
+bentldo01,Second Team All-Star,1948,NHL,C,345
+harmogl01,Second Team All-Star,1948,NHL,D,346
+howego01,Second Team All-Star,1948,NHL,RW,347
+lindste01,Second Team All-Star,1948,NHL,LW,348
+raynech01,Second Team All-Star,1948,NHL,G,349
+reardke01,Second Team All-Star,1948,NHL,D,350
+durnabi01,Vezina,1948,NHL,,351
+lindste01,Art Ross,1949,NHL,,352
+gelinja01,Calder,1949,NHL,,353
+abelsi01,First Team All-Star,1949,NHL,C,354
+durnabi01,First Team All-Star,1949,NHL,G,355
+lindste01,First Team All-Star,1949,NHL,LW,356
+mortsgu01,First Team All-Star,1949,NHL,D,357
+reardke01,First Team All-Star,1949,NHL,D,358
+richama01,First Team All-Star,1949,NHL,RW,359
+raynech01,Hart,1949,NHL,,360
+lapraed01,Lady Byng,1949,NHL,,361
+howego01,Second Team All-Star,1949,NHL,RW,362
+kellyre01,Second Team All-Star,1949,NHL,D,363
+kennete01,Second Team All-Star,1949,NHL,C,364
+leswito01,Second Team All-Star,1949,NHL,LW,365
+raynech01,Second Team All-Star,1949,NHL,G,366
+reisele02,Second Team All-Star,1949,NHL,D,367
+durnabi01,Vezina,1949,NHL,,368
+howego01,Art Ross,1950,NHL,,369
+sawchte01,Calder,1950,NHL,,370
+howego01,First Team All-Star,1950,NHL,RW,371
+kellyre01,First Team All-Star,1950,NHL,D,372
+lindste01,First Team All-Star,1950,NHL,LW,373
+quackbi01,First Team All-Star,1950,NHL,D,374
+sawchte01,First Team All-Star,1950,NHL,G,375
+schmimi01,First Team All-Star,1950,NHL,C,376
+schmimi01,Hart,1950,NHL,,377
+kellyre01,Lady Byng,1950,NHL,,378
+abelsi01,Second Team All-Star,1950,NHL,C,379
+kennete01,Second Team All-Star,1950,NHL,C,380
+raynech01,Second Team All-Star,1950,NHL,G,381
+reisele02,Second Team All-Star,1950,NHL,D,382
+richama01,Second Team All-Star,1950,NHL,RW,383
+smithsi01,Second Team All-Star,1950,NHL,LW,384
+thomsji01,Second Team All-Star,1950,NHL,D,385
+rollial01,Vezina,1950,NHL,,386
+howego01,Art Ross,1951,NHL,,387
+geoffbe01,Calder,1951,NHL,,388
+harvedo01,First Team All-Star,1951,NHL,D,389
+howego01,First Team All-Star,1951,NHL,RW,390
+kellyre01,First Team All-Star,1951,NHL,D,391
+lachel01,First Team All-Star,1951,NHL,C,392
+lindste01,First Team All-Star,1951,NHL,LW,393
+sawchte01,First Team All-Star,1951,NHL,G,394
+howego01,Hart,1951,NHL,,395
+smithsi01,Lady Byng,1951,NHL,,396
+bullehy01,Second Team All-Star,1951,NHL,D,397
+henryji01,Second Team All-Star,1951,NHL,G,398
+richama01,Second Team All-Star,1951,NHL,RW,399
+schmimi01,Second Team All-Star,1951,NHL,C,400
+smithsi01,Second Team All-Star,1951,NHL,LW,401
+thomsji01,Second Team All-Star,1951,NHL,D,402
+sawchte01,Vezina,1951,NHL,,403
+howego01,Art Ross,1952,NHL,,404
+worslgu01,Calder,1952,NHL,,405
+harvedo01,First Team All-Star,1952,NHL,D,406
+howego01,First Team All-Star,1952,NHL,RW,407
+kellyre01,First Team All-Star,1952,NHL,D,408
+lindste01,First Team All-Star,1952,NHL,LW,409
+mackefl01,First Team All-Star,1952,NHL,C,410
+sawchte01,First Team All-Star,1952,NHL,G,411
+howego01,Hart,1952,NHL,,412
+kellyre01,Lady Byng,1952,NHL,,413
+delveal01,Second Team All-Star,1952,NHL,C,414
+gadsbbi01,Second Team All-Star,1952,NHL,D,415
+mcneige01,Second Team All-Star,1952,NHL,G,416
+olmstbe01,Second Team All-Star,1952,NHL,LW,417
+quackbi01,Second Team All-Star,1952,NHL,D,418
+richama01,Second Team All-Star,1952,NHL,RW,419
+sawchte01,Vezina,1952,NHL,,420
+howego01,Art Ross,1953,NHL,,421
+henryca01,Calder,1953,NHL,,422
+harvedo01,First Team All-Star,1953,NHL,D,423
+howego01,First Team All-Star,1953,NHL,RW,424
+kellyre01,First Team All-Star,1953,NHL,D,425
+lindste01,First Team All-Star,1953,NHL,LW,426
+lumleha01,First Team All-Star,1953,NHL,G,427
+mosdeke01,First Team All-Star,1953,NHL,C,428
+rollial01,Hart,1953,NHL,,429
+kellyre01,Lady Byng,1953,NHL,,430
+kellyre01,Norris,1953,NHL,,431
+gadsbbi01,Second Team All-Star,1953,NHL,D,432
+hortoti01,Second Team All-Star,1953,NHL,D,433
+kennete01,Second Team All-Star,1953,NHL,C,434
+richama01,Second Team All-Star,1953,NHL,RW,435
+sandfed01,Second Team All-Star,1953,NHL,LW,436
+sawchte01,Second Team All-Star,1953,NHL,G,437
+lumleha01,Vezina,1953,NHL,,438
+geoffbe01,Art Ross,1954,NHL,,439
+litzeed01,Calder,1954,NHL,,440
+belivje01,First Team All-Star,1954,NHL,C,441
+harvedo01,First Team All-Star,1954,NHL,D,442
+kellyre01,First Team All-Star,1954,NHL,D,443
+lumleha01,First Team All-Star,1954,NHL,G,444
+richama01,First Team All-Star,1954,NHL,RW,445
+smithsi01,First Team All-Star,1954,NHL,LW,446
+kennete01,Hart,1954,NHL,,447
+smithsi01,Lady Byng,1954,NHL,,448
+harvedo01,Norris,1954,NHL,,449
+flamafe01,Second Team All-Star,1954,NHL,D,450
+geoffbe01,Second Team All-Star,1954,NHL,RW,451
+goldhbo01,Second Team All-Star,1954,NHL,D,452
+lewicda01,Second Team All-Star,1954,NHL,LW,453
+mosdeke01,Second Team All-Star,1954,NHL,C,454
+sawchte01,Second Team All-Star,1954,NHL,G,455
+sawchte01,Vezina,1954,NHL,,456
+belivje01,Art Ross,1955,NHL,,457
+hallgl01,Calder,1955,NHL,,458
+belivje01,First Team All-Star,1955,NHL,C,459
+gadsbbi01,First Team All-Star,1955,NHL,D,460
+harvedo01,First Team All-Star,1955,NHL,D,461
+lindste01,First Team All-Star,1955,NHL,LW,462
+plantja01,First Team All-Star,1955,NHL,G,463
+richama01,First Team All-Star,1955,NHL,RW,464
+belivje01,Hart,1955,NHL,,465
+reibedu01,Lady Byng,1955,NHL,,466
+harvedo01,Norris,1955,NHL,,467
+hallgl01,Second Team All-Star,1955,NHL,G,468
+howego01,Second Team All-Star,1955,NHL,RW,469
+johnsto01,Second Team All-Star,1955,NHL,D,470
+kellyre01,Second Team All-Star,1955,NHL,D,471
+olmstbe01,Second Team All-Star,1955,NHL,LW,472
+sloanto01,Second Team All-Star,1955,NHL,C,473
+plantja01,Vezina,1955,NHL,,474
+howego01,Art Ross,1956,NHL,,475
+reganla01,Calder,1956,NHL,,476
+belivje01,First Team All-Star,1956,NHL,C,477
+hallgl01,First Team All-Star,1956,NHL,G,478
+harvedo01,First Team All-Star,1956,NHL,D,479
+howego01,First Team All-Star,1956,NHL,RW,480
+kellyre01,First Team All-Star,1956,NHL,D,481
+lindste01,First Team All-Star,1956,NHL,LW,482
+howego01,Hart,1956,NHL,,483
+hebenan01,Lady Byng,1956,NHL,,484
+harvedo01,Norris,1956,NHL,,485
+chevrre01,Second Team All-Star,1956,NHL,LW,486
+flamafe01,Second Team All-Star,1956,NHL,D,487
+gadsbbi01,Second Team All-Star,1956,NHL,D,488
+litzeed01,Second Team All-Star,1956,NHL,C,489
+plantja01,Second Team All-Star,1956,NHL,G,490
+richama01,Second Team All-Star,1956,NHL,RW,491
+plantja01,Vezina,1956,NHL,,492
+mooredi01,Art Ross,1957,NHL,,493
+mahovfr01,Calder,1957,NHL,,494
+gadsbbi01,First Team All-Star,1957,NHL,D,495
+hallgl01,First Team All-Star,1957,NHL,G,496
+harvedo01,First Team All-Star,1957,NHL,D,497
+howego01,First Team All-Star,1957,NHL,RW,498
+mooredi01,First Team All-Star,1957,NHL,LW,499
+richahe01,First Team All-Star,1957,NHL,C,500
+howego01,Hart,1957,NHL,,501
+henryca01,Lady Byng,1957,NHL,,502
+harvedo01,Norris,1957,NHL,,503
+bathgan01,Second Team All-Star,1957,NHL,RW,504
+belivje01,Second Team All-Star,1957,NHL,C,505
+flamafe01,Second Team All-Star,1957,NHL,D,506
+henryca01,Second Team All-Star,1957,NHL,LW,507
+plantja01,Second Team All-Star,1957,NHL,G,508
+pronoma01,Second Team All-Star,1957,NHL,D,509
+plantja01,Vezina,1957,NHL,,510
+mooredi01,Art Ross,1958,NHL,,511
+backsra01,Calder,1958,NHL,,512
+bathgan01,First Team All-Star,1958,NHL,RW,513
+belivje01,First Team All-Star,1958,NHL,C,514
+gadsbbi01,First Team All-Star,1958,NHL,D,515
+johnsto01,First Team All-Star,1958,NHL,D,516
+mooredi01,First Team All-Star,1958,NHL,LW,517
+plantja01,First Team All-Star,1958,NHL,G,518
+bathgan01,Hart,1958,NHL,,519
+delveal01,Lady Byng,1958,NHL,,520
+johnsto01,Norris,1958,NHL,,521
+delveal01,Second Team All-Star,1958,NHL,LW,522
+harvedo01,Second Team All-Star,1958,NHL,D,523
+howego01,Second Team All-Star,1958,NHL,RW,524
+pronoma01,Second Team All-Star,1958,NHL,D,525
+richahe01,Second Team All-Star,1958,NHL,C,526
+sawchte01,Second Team All-Star,1958,NHL,G,527
+plantja01,Vezina,1958,NHL,,528
+hullbo01,Art Ross,1959,NHL,,529
+haybi01,Calder,1959,NHL,,530
+belivje01,First Team All-Star,1959,NHL,C,531
+hallgl01,First Team All-Star,1959,NHL,G,532
+harvedo01,First Team All-Star,1959,NHL,D,533
+howego01,First Team All-Star,1959,NHL,RW,534
+hullbo01,First Team All-Star,1959,NHL,LW,535
+pronoma01,First Team All-Star,1959,NHL,D,536
+howego01,Hart,1959,NHL,,537
+mckendo01,Lady Byng,1959,NHL,,538
+harvedo01,Norris,1959,NHL,,539
+geoffbe01,Second Team All-Star,1959,NHL,RW,540
+horvabr01,Second Team All-Star,1959,NHL,C,541
+pilotpi01,Second Team All-Star,1959,NHL,D,542
+plantja01,Second Team All-Star,1959,NHL,G,543
+prentde01,Second Team All-Star,1959,NHL,LW,544
+stanlal01,Second Team All-Star,1959,NHL,D,545
+plantja01,Vezina,1959,NHL,,546
+geoffbe01,Art Ross,1960,NHL,,547
+keonda01,Calder,1960,NHL,,548
+belivje01,First Team All-Star,1960,NHL,C,549
+bowerjo01,First Team All-Star,1960,NHL,G,550
+geoffbe01,First Team All-Star,1960,NHL,RW,551
+harvedo01,First Team All-Star,1960,NHL,D,552
+mahovfr01,First Team All-Star,1960,NHL,LW,553
+pronoma01,First Team All-Star,1960,NHL,D,554
+geoffbe01,Hart,1960,NHL,,555
+kellyre01,Lady Byng,1960,NHL,,556
+harvedo01,Norris,1960,NHL,,557
+hallgl01,Second Team All-Star,1960,NHL,G,558
+howego01,Second Team All-Star,1960,NHL,RW,559
+mooredi01,Second Team All-Star,1960,NHL,LW,560
+pilotpi01,Second Team All-Star,1960,NHL,D,561
+richahe01,Second Team All-Star,1960,NHL,C,562
+stanlal01,Second Team All-Star,1960,NHL,D,563
+bowerjo01,Vezina,1960,NHL,,564
+hullbo01,Art Ross,1961,NHL,,565
+roussbo01,Calder,1961,NHL,,566
+bathgan01,First Team All-Star,1961,NHL,RW,567
+harvedo01,First Team All-Star,1961,NHL,D,568
+hullbo01,First Team All-Star,1961,NHL,LW,569
+mikitst01,First Team All-Star,1961,NHL,C,570
+plantja01,First Team All-Star,1961,NHL,G,571
+talboje01,First Team All-Star,1961,NHL,D,572
+plantja01,Hart,1961,NHL,,573
+keonda01,Lady Byng,1961,NHL,,574
+harvedo01,Norris,1961,NHL,,575
+breweca01,Second Team All-Star,1961,NHL,D,576
+hallgl01,Second Team All-Star,1961,NHL,G,577
+howego01,Second Team All-Star,1961,NHL,RW,578
+keonda01,Second Team All-Star,1961,NHL,C,579
+mahovfr01,Second Team All-Star,1961,NHL,LW,580
+pilotpi01,Second Team All-Star,1961,NHL,D,581
+plantja01,Vezina,1961,NHL,,582
+howego01,Art Ross,1962,NHL,,583
+douglke01,Calder,1962,NHL,,584
+breweca01,First Team All-Star,1962,NHL,D,585
+hallgl01,First Team All-Star,1962,NHL,G,586
+howego01,First Team All-Star,1962,NHL,RW,587
+mahovfr01,First Team All-Star,1962,NHL,LW,588
+mikitst01,First Team All-Star,1962,NHL,C,589
+pilotpi01,First Team All-Star,1962,NHL,D,590
+howego01,Hart,1962,NHL,,591
+keonda01,Lady Byng,1962,NHL,,592
+pilotpi01,Norris,1962,NHL,,593
+bathgan01,Second Team All-Star,1962,NHL,RW,594
+hortoti01,Second Team All-Star,1962,NHL,D,595
+hullbo01,Second Team All-Star,1962,NHL,LW,596
+richahe01,Second Team All-Star,1962,NHL,C,597
+sawchte01,Second Team All-Star,1962,NHL,G,598
+vaskomo01,Second Team All-Star,1962,NHL,D,599
+hallgl01,Vezina,1962,NHL,,600
+mikitst01,Art Ross,1963,NHL,,601
+laperja01,Calder,1963,NHL,,602
+hallgl01,First Team All-Star,1963,NHL,G,603
+hortoti01,First Team All-Star,1963,NHL,D,604
+hullbo01,First Team All-Star,1963,NHL,LW,605
+mikitst01,First Team All-Star,1963,NHL,C,606
+pilotpi01,First Team All-Star,1963,NHL,D,607
+wharrke01,First Team All-Star,1963,NHL,RW,608
+belivje01,Hart,1963,NHL,,609
+wharrke01,Lady Byng,1963,NHL,,610
+pilotpi01,Norris,1963,NHL,,611
+belivje01,Second Team All-Star,1963,NHL,C,612
+hodgech01,Second Team All-Star,1963,NHL,G,613
+howego01,Second Team All-Star,1963,NHL,RW,614
+laperja01,Second Team All-Star,1963,NHL,D,615
+mahovfr01,Second Team All-Star,1963,NHL,LW,616
+vaskomo01,Second Team All-Star,1963,NHL,D,617
+hodgech01,Vezina,1963,NHL,,618
+mikitst01,Art Ross,1964,NHL,,619
+croziro01,Calder,1964,NHL,,620
+belivje01,Conn Smythe,1964,NHL,,621
+croziro01,First Team All-Star,1964,NHL,G,622
+hullbo01,First Team All-Star,1964,NHL,LW,623
+laperja01,First Team All-Star,1964,NHL,D,624
+pilotpi01,First Team All-Star,1964,NHL,D,625
+provocl01,First Team All-Star,1964,NHL,RW,626
+ullmano01,First Team All-Star,1964,NHL,C,627
+hullbo01,Hart,1964,NHL,,628
+hullbo01,Lady Byng,1964,NHL,,629
+pilotpi01,Norris,1964,NHL,,630
+breweca01,Second Team All-Star,1964,NHL,D,631
+gadsbbi01,Second Team All-Star,1964,NHL,D,632
+hodgech01,Second Team All-Star,1964,NHL,G,633
+howego01,Second Team All-Star,1964,NHL,RW,634
+mahovfr01,Second Team All-Star,1964,NHL,LW,635
+mikitst01,Second Team All-Star,1964,NHL,C,636
+bowerjo01,Vezina,1964,NHL,,637
+sawchte01,Vezina,1964,NHL,,638
+hullbo01,Art Ross,1965,NHL,,639
+selbybr01,Calder,1965,NHL,,640
+croziro01,Conn Smythe,1965,NHL,,641
+hallgl01,First Team All-Star,1965,NHL,G,642
+howego01,First Team All-Star,1965,NHL,RW,643
+hullbo01,First Team All-Star,1965,NHL,LW,644
+laperja01,First Team All-Star,1965,NHL,D,645
+mikitst01,First Team All-Star,1965,NHL,C,646
+pilotpi01,First Team All-Star,1965,NHL,D,647
+hullbo01,Hart,1965,NHL,,648
+delveal01,Lady Byng,1965,NHL,,649
+laperja01,Norris,1965,NHL,,650
+belivje01,Second Team All-Star,1965,NHL,C,651
+mahovfr01,Second Team All-Star,1965,NHL,LW,652
+roussbo01,Second Team All-Star,1965,NHL,RW,653
+stanlal01,Second Team All-Star,1965,NHL,D,654
+staplpa01,Second Team All-Star,1965,NHL,D,655
+worslgu01,Second Team All-Star,1965,NHL,G,656
+hodgech01,Vezina,1965,NHL,,657
+worslgu01,Vezina,1965,NHL,,658
+mikitst01,Art Ross,1966,NHL,,659
+orrbo01,Calder,1966,NHL,,660
+keonda01,Conn Smythe,1966,NHL,,661
+giacoed01,First Team All-Star,1966,NHL,G,662
+howelha01,First Team All-Star,1966,NHL,D,663
+hullbo01,First Team All-Star,1966,NHL,LW,664
+mikitst01,First Team All-Star,1966,NHL,C,665
+pilotpi01,First Team All-Star,1966,NHL,D,666
+wharrke01,First Team All-Star,1966,NHL,RW,667
+mikitst01,Hart,1966,NHL,,668
+mikitst01,Lady Byng,1966,NHL,,669
+howelha01,Norris,1966,NHL,,670
+hallgl01,Second Team All-Star,1966,NHL,G,671
+hortoti01,Second Team All-Star,1966,NHL,D,672
+howego01,Second Team All-Star,1966,NHL,RW,673
+marshdo01,Second Team All-Star,1966,NHL,LW,674
+orrbo01,Second Team All-Star,1966,NHL,D,675
+ullmano01,Second Team All-Star,1966,NHL,C,676
+dejorde01,Vezina,1966,NHL,,677
+hallgl01,Vezina,1966,NHL,,678
+mikitst01,Art Ross,1967,NHL,,679
+sandede01,Calder,1967,NHL,,680
+hallgl01,Conn Smythe,1967,NHL,,681
+hortoti01,First Team All-Star,1967,NHL,D,682
+howego01,First Team All-Star,1967,NHL,RW,683
+hullbo01,First Team All-Star,1967,NHL,LW,684
+mikitst01,First Team All-Star,1967,NHL,C,685
+orrbo01,First Team All-Star,1967,NHL,D,686
+worslgu01,First Team All-Star,1967,NHL,G,687
+mikitst01,Hart,1967,NHL,,688
+mikitst01,Lady Byng,1967,NHL,,689
+provocl01,Masterton,1967,NHL,,690
+orrbo01,Norris,1967,NHL,,691
+bucykjo01,Second Team All-Star,1967,NHL,LW,692
+esposph01,Second Team All-Star,1967,NHL,C,693
+giacoed01,Second Team All-Star,1967,NHL,G,694
+gilbero01,Second Team All-Star,1967,NHL,RW,695
+neilsji01,Second Team All-Star,1967,NHL,D,696
+trembjc01,Second Team All-Star,1967,NHL,D,697
+vachoro01,Vezina,1967,NHL,,698
+worslgu01,Vezina,1967,NHL,,699
+esposph01,Art Ross,1968,NHL,,700
+grantda01,Calder,1968,NHL,,701
+savarse01,Conn Smythe,1968,NHL,,702
+esposph01,First Team All-Star,1968,NHL,C,703
+hallgl01,First Team All-Star,1968,NHL,G,704
+hortoti01,First Team All-Star,1968,NHL,D,705
+howego01,First Team All-Star,1968,NHL,RW,706
+hullbo01,First Team All-Star,1968,NHL,LW,707
+orrbo01,First Team All-Star,1968,NHL,D,708
+esposph01,Hart,1968,NHL,,709
+delveal01,Lady Byng,1968,NHL,,710
+hampste01,Masterton,1968,NHL,,711
+orrbo01,Norris,1968,NHL,,712
+belivje01,Second Team All-Star,1968,NHL,C,713
+cournyv01,Second Team All-Star,1968,NHL,RW,714
+giacoed01,Second Team All-Star,1968,NHL,G,715
+greente01,Second Team All-Star,1968,NHL,D,716
+harrite01,Second Team All-Star,1968,NHL,D,717
+mahovfr01,Second Team All-Star,1968,NHL,LW,718
+hallgl01,Vezina,1968,NHL,,719
+plantja01,Vezina,1968,NHL,,720
+orrbo01,Art Ross,1969,NHL,,721
+esposto01,Calder,1969,NHL,,722
+orrbo01,Conn Smythe,1969,NHL,,723
+esposph01,First Team All-Star,1969,NHL,C,724
+esposto01,First Team All-Star,1969,NHL,G,725
+howego01,First Team All-Star,1969,NHL,RW,726
+hullbo01,First Team All-Star,1969,NHL,LW,727
+orrbo01,First Team All-Star,1969,NHL,D,728
+parkbr01,First Team All-Star,1969,NHL,D,729
+orrbo01,Hart,1969,NHL,,730
+goyetph01,Lady Byng,1969,NHL,,731
+martipi01,Masterton,1969,NHL,,732
+orrbo01,Norris,1969,NHL,,733
+breweca01,Second Team All-Star,1969,NHL,D,734
+giacoed01,Second Team All-Star,1969,NHL,G,735
+laperja01,Second Team All-Star,1969,NHL,D,736
+mahovfr01,Second Team All-Star,1969,NHL,LW,737
+mckenjo01,Second Team All-Star,1969,NHL,RW,738
+mikitst01,Second Team All-Star,1969,NHL,C,739
+esposto01,Vezina,1969,NHL,,740
+esposph01,Art Ross,1970,NHL,,741
+perregi01,Calder,1970,NHL,,742
+drydeke01,Conn Smythe,1970,NHL,,743
+bucykjo01,First Team All-Star,1970,NHL,LW,744
+esposph01,First Team All-Star,1970,NHL,C,745
+giacoed01,First Team All-Star,1970,NHL,G,746
+hodgeke01,First Team All-Star,1970,NHL,RW,747
+orrbo01,First Team All-Star,1970,NHL,D,748
+trembjc01,First Team All-Star,1970,NHL,D,749
+orrbo01,Hart,1970,NHL,,750
+bucykjo01,Lady Byng,1970,NHL,,751
+ratelje01,Masterton,1970,NHL,,752
+orrbo01,Norris,1970,NHL,,753
+esposph01,Pearson,1970,NHL,,754
+cournyv01,Second Team All-Star,1970,NHL,RW,755
+hullbo01,Second Team All-Star,1970,NHL,LW,756
+keonda01,Second Team All-Star,1970,NHL,C,757
+parkbr01,Second Team All-Star,1970,NHL,D,758
+plantja01,Second Team All-Star,1970,NHL,G,759
+staplpa01,Second Team All-Star,1970,NHL,D,760
+giacoed01,Vezina,1970,NHL,,761
+villegi01,Vezina,1970,NHL,,762
+esposph01,Art Ross,1971,NHL,,763
+drydeke01,Calder,1971,NHL,,764
+orrbo01,Conn Smythe,1971,NHL,,765
+esposph01,First Team All-Star,1971,NHL,C,766
+esposto01,First Team All-Star,1971,NHL,G,767
+gilbero01,First Team All-Star,1971,NHL,RW,768
+hullbo01,First Team All-Star,1971,NHL,LW,769
+orrbo01,First Team All-Star,1971,NHL,D,770
+parkbr01,First Team All-Star,1971,NHL,D,771
+orrbo01,Hart,1971,NHL,,772
+ratelje01,Lady Byng,1971,NHL,,773
+clarkbo01,Masterton,1971,NHL,,774
+orrbo01,Norris,1971,NHL,,775
+ratelje01,Pearson,1971,NHL,,776
+cournyv01,Second Team All-Star,1971,NHL,RW,777
+drydeke01,Second Team All-Star,1971,NHL,G,778
+hadfivi01,Second Team All-Star,1971,NHL,LW,779
+ratelje01,Second Team All-Star,1971,NHL,C,780
+staplpa01,Second Team All-Star,1971,NHL,D,781
+whitebi01,Second Team All-Star,1971,NHL,D,782
+esposto01,Vezina,1971,NHL,,783
+smithga01,Vezina,1971,NHL,,784
+esposph01,Art Ross,1972,NHL,,785
+vickest01,Calder,1972,NHL,,786
+cournyv01,Conn Smythe,1972,NHL,,787
+drydeke01,First Team All-Star,1972,NHL,G,788
+esposph01,First Team All-Star,1972,NHL,C,789
+lapoigu01,First Team All-Star,1972,NHL,D,790
+mahovfr01,First Team All-Star,1972,NHL,LW,791
+orrbo01,First Team All-Star,1972,NHL,D,792
+redmomi01,First Team All-Star,1972,NHL,RW,793
+clarkbo01,Hart,1972,NHL,,794
+perregi01,Lady Byng,1972,NHL,,795
+macdolo01,Masterton,1972,NHL,,796
+orrbo01,Norris,1972,NHL,,797
+esposph01,Pearson,1972,NHL,,798
+clarkbo01,Second Team All-Star,1972,NHL,C,799
+cournyv01,Second Team All-Star,1972,NHL,RW,800
+esposto01,Second Team All-Star,1972,NHL,G,801
+hullde01,Second Team All-Star,1972,NHL,LW,802
+parkbr01,Second Team All-Star,1972,NHL,D,803
+whitebi01,Second Team All-Star,1972,NHL,D,804
+drydeke01,Vezina,1972,NHL,,805
+esposph01,Art Ross,1973,NHL,,806
+potvide01,Calder,1973,NHL,,807
+parenbe01,Conn Smythe,1973,NHL,,808
+esposph01,First Team All-Star,1973,NHL,C,809
+hodgeke01,First Team All-Star,1973,NHL,RW,810
+martiri01,First Team All-Star,1973,NHL,LW,811
+orrbo01,First Team All-Star,1973,NHL,D,812
+parenbe01,First Team All-Star,1973,NHL,G,813
+parkbr01,First Team All-Star,1973,NHL,D,814
+esposph01,Hart,1973,NHL,,815
+bucykjo01,Lady Byng,1973,NHL,,816
+richahe01,Masterton,1973,NHL,,817
+orrbo01,Norris,1973,NHL,,818
+clarkbo01,Pearson,1973,NHL,,819
+ashbeba01,Second Team All-Star,1973,NHL,D,820
+cashmwa01,Second Team All-Star,1973,NHL,LW,821
+clarkbo01,Second Team All-Star,1973,NHL,C,822
+esposto01,Second Team All-Star,1973,NHL,G,823
+redmomi01,Second Team All-Star,1973,NHL,RW,824
+whitebi01,Second Team All-Star,1973,NHL,D,825
+esposto01,Vezina,1973,NHL,,826
+parenbe01,Vezina,1973,NHL,,827
+orrbo01,Art Ross,1974,NHL,,828
+vailer01,Calder,1974,NHL,,829
+parenbe01,Conn Smythe,1974,NHL,,830
+clarkbo01,First Team All-Star,1974,NHL,C,831
+laflegu01,First Team All-Star,1974,NHL,RW,832
+martiri01,First Team All-Star,1974,NHL,LW,833
+orrbo01,First Team All-Star,1974,NHL,D,834
+parenbe01,First Team All-Star,1974,NHL,G,835
+potvide01,First Team All-Star,1974,NHL,D,836
+clarkbo01,Hart,1974,NHL,,837
+dionnma01,Lady Byng,1974,NHL,,838
+lucedo01,Masterton,1974,NHL,,839
+orrbo01,Norris,1974,NHL,,840
+orrbo01,Pearson,1974,NHL,,841
+esposph01,Second Team All-Star,1974,NHL,C,842
+lapoigu01,Second Team All-Star,1974,NHL,D,843
+roberre01,Second Team All-Star,1974,NHL,RW,844
+salmibo01,Second Team All-Star,1974,NHL,D,845
+vachoro01,Second Team All-Star,1974,NHL,G,846
+vickest01,Second Team All-Star,1974,NHL,LW,847
+parenbe01,Vezina,1974,NHL,,848
+laflegu01,Art Ross,1975,NHL,,849
+trottbr01,Calder,1975,NHL,,850
+leachre01,Conn Smythe,1975,NHL,,851
+barbebi01,First Team All-Star,1975,NHL,LW,852
+clarkbo01,First Team All-Star,1975,NHL,C,853
+drydeke01,First Team All-Star,1975,NHL,G,854
+laflegu01,First Team All-Star,1975,NHL,RW,855
+parkbr01,First Team All-Star,1975,NHL,D,856
+potvide01,First Team All-Star,1975,NHL,D,857
+clarkbo01,Hart,1975,NHL,,858
+ratelje01,Lady Byng,1975,NHL,,859
+gilbero01,Masterton,1975,NHL,,860
+potvide01,Norris,1975,NHL,,861
+laflegu01,Pearson,1975,NHL,,862
+lapoigu01,Second Team All-Star,1975,NHL,D,863
+leachre01,Second Team All-Star,1975,NHL,RW,864
+martiri01,Second Team All-Star,1975,NHL,LW,865
+perregi01,Second Team All-Star,1975,NHL,C,866
+reschgl01,Second Team All-Star,1975,NHL,G,867
+salmibo01,Second Team All-Star,1975,NHL,D,868
+drydeke01,Vezina,1975,NHL,,869
+laflegu01,Art Ross,1976,NHL,,870
+plettwi01,Calder,1976,NHL,,871
+laflegu01,Conn Smythe,1976,NHL,,872
+dionnma01,First Team All-Star,1976,NHL,C,873
+drydeke01,First Team All-Star,1976,NHL,G,874
+laflegu01,First Team All-Star,1976,NHL,RW,875
+robinla01,First Team All-Star,1976,NHL,D,876
+salmibo01,First Team All-Star,1976,NHL,D,877
+shuttst01,First Team All-Star,1976,NHL,LW,878
+laflegu01,Hart,1976,NHL,,879
+dionnma01,Lady Byng,1976,NHL,,880
+westfed01,Masterton,1976,NHL,,881
+robinla01,Norris,1976,NHL,,882
+laflegu01,Pearson,1976,NHL,,883
+lapoigu01,Second Team All-Star,1976,NHL,D,884
+martiri01,Second Team All-Star,1976,NHL,LW,885
+mcdonla01,Second Team All-Star,1976,NHL,RW,886
+perregi01,Second Team All-Star,1976,NHL,C,887
+potvide01,Second Team All-Star,1976,NHL,D,888
+vachoro01,Second Team All-Star,1976,NHL,G,889
+drydeke01,Vezina,1976,NHL,,890
+larocmi01,Vezina,1976,NHL,,891
+laflegu01,Art Ross,1977,NHL,,892
+bossymi01,Calder,1977,NHL,,893
+robinla01,Conn Smythe,1977,NHL,,894
+drydeke01,First Team All-Star,1977,NHL,G,895
+gillicl01,First Team All-Star,1977,NHL,LW,896
+laflegu01,First Team All-Star,1977,NHL,RW,897
+parkbr01,First Team All-Star,1977,NHL,D,898
+potvide01,First Team All-Star,1977,NHL,D,899
+trottbr01,First Team All-Star,1977,NHL,C,900
+laflegu01,Hart,1977,NHL,,901
+gorinbu01,Lady Byng,1977,NHL,,902
+gorinbu01,Masterton,1977,NHL,,903
+potvide01,Norris,1977,NHL,,904
+laflegu01,Pearson,1977,NHL,,905
+bossymi01,Second Team All-Star,1977,NHL,RW,906
+edwardo01,Second Team All-Star,1977,NHL,G,907
+robinla01,Second Team All-Star,1977,NHL,D,908
+salmibo01,Second Team All-Star,1977,NHL,D,909
+shuttst01,Second Team All-Star,1977,NHL,LW,910
+sittlda01,Second Team All-Star,1977,NHL,C,911
+gainebo01,Selke,1977,NHL,,912
+drydeke01,Vezina,1977,NHL,,913
+larocmi01,Vezina,1977,NHL,,914
+trottbr01,Art Ross,1978,NHL,,915
+smithbo01,Calder,1978,NHL,,916
+gainebo01,Conn Smythe,1978,NHL,,917
+drydeke01,First Team All-Star,1978,NHL,G,918
+gillicl01,First Team All-Star,1978,NHL,LW,919
+laflegu01,First Team All-Star,1978,NHL,RW,920
+potvide01,First Team All-Star,1978,NHL,D,921
+robinla01,First Team All-Star,1978,NHL,D,922
+trottbr01,First Team All-Star,1978,NHL,C,923
+trottbr01,Hart,1978,NHL,,924
+macmibo01,Lady Byng,1978,NHL,,925
+savarse01,Masterton,1978,NHL,,926
+potvide01,Norris,1978,NHL,,927
+dionnma01,Pearson,1978,NHL,,928
+barbebi01,Second Team All-Star,1978,NHL,LW,929
+bossymi01,Second Team All-Star,1978,NHL,RW,930
+dionnma01,Second Team All-Star,1978,NHL,C,931
+reschgl01,Second Team All-Star,1978,NHL,G,932
+salmibo01,Second Team All-Star,1978,NHL,D,933
+savarse01,Second Team All-Star,1978,NHL,D,934
+gainebo01,Selke,1978,NHL,,935
+drydeke01,Vezina,1978,NHL,,936
+larocmi01,Vezina,1978,NHL,,937
+dionnma01,Art Ross,1979,NHL,,938
+bourqra01,Calder,1979,NHL,,939
+trottbr01,Conn Smythe,1979,NHL,,940
+bourqra01,First Team All-Star,1979,NHL,D,941
+dionnma01,First Team All-Star,1979,NHL,C,942
+esposto01,First Team All-Star,1979,NHL,G,943
+laflegu01,First Team All-Star,1979,NHL,RW,944
+robinla01,First Team All-Star,1979,NHL,D,945
+simmech01,First Team All-Star,1979,NHL,LW,946
+gretzwa01,Hart,1979,NHL,,947
+gretzwa01,Lady Byng,1979,NHL,,948
+macadal01,Masterton,1979,NHL,,949
+robinla01,Norris,1979,NHL,,950
+dionnma01,Pearson,1979,NHL,,951
+edwardo01,Second Team All-Star,1979,NHL,G,952
+gareda01,Second Team All-Star,1979,NHL,RW,953
+gretzwa01,Second Team All-Star,1979,NHL,C,954
+salmibo01,Second Team All-Star,1979,NHL,D,955
+schoeji01,Second Team All-Star,1979,NHL,D,956
+shuttst01,Second Team All-Star,1979,NHL,LW,957
+gainebo01,Selke,1979,NHL,,958
+edwardo01,Vezina,1979,NHL,,959
+sauvebo01,Vezina,1979,NHL,,960
+gretzwa01,Art Ross,1980,NHL,,961
+stastpe01,Calder,1980,NHL,,962
+gorinbu01,Conn Smythe,1980,NHL,,963
+bossymi01,First Team All-Star,1980,NHL,RW,964
+carlyra01,First Team All-Star,1980,NHL,D,965
+gretzwa01,First Team All-Star,1980,NHL,C,966
+liutmi01,First Team All-Star,1980,NHL,G,967
+potvide01,First Team All-Star,1980,NHL,D,968
+simmech01,First Team All-Star,1980,NHL,LW,969
+gretzwa01,Hart,1980,NHL,,970
+kehoeri01,Lady Byng,1980,NHL,,971
+dunlobl01,Masterton,1980,NHL,,972
+carlyra01,Norris,1980,NHL,,973
+liutmi01,Pearson,1980,NHL,,974
+barbebi01,Second Team All-Star,1980,NHL,LW,975
+bourqra01,Second Team All-Star,1980,NHL,D,976
+dionnma01,Second Team All-Star,1980,NHL,C,977
+lessama01,Second Team All-Star,1980,NHL,G,978
+robinla01,Second Team All-Star,1980,NHL,D,979
+tayloda01,Second Team All-Star,1980,NHL,RW,980
+gainebo01,Selke,1980,NHL,,981
+herrode01,Vezina,1980,NHL,,982
+larocmi01,Vezina,1980,NHL,,983
+sevigri01,Vezina,1980,NHL,,984
+gretzwa01,Art Ross,1981,NHL,,985
+hawerda01,Calder,1981,NHL,,986
+bossymi01,Conn Smythe,1981,NHL,,987
+bossymi01,First Team All-Star,1981,NHL,RW,988
+bourqra01,First Team All-Star,1981,NHL,D,989
+gretzwa01,First Team All-Star,1981,NHL,C,990
+messima01,First Team All-Star,1981,NHL,LW,991
+smithbi01,First Team All-Star,1981,NHL,G,992
+wilsodo01,First Team All-Star,1981,NHL,D,993
+gretzwa01,Hart,1981,NHL,,994
+herrode01,Jennings,1981,NHL,,995
+wamslri01,Jennings,1981,NHL,,996
+middlri01,Lady Byng,1981,NHL,,997
+reschgl01,Masterton,1981,NHL,,998
+wilsodo01,Norris,1981,NHL,,999
+gretzwa01,Pearson,1981,NHL,,1000
+coffepa01,Second Team All-Star,1981,NHL,D,1001
+engblbr01,Second Team All-Star,1981,NHL,D,1002
+fuhrgr01,Second Team All-Star,1981,NHL,G,1003
+middlri01,Second Team All-Star,1981,NHL,RW,1004
+toneljo01,Second Team All-Star,1981,NHL,LW,1005
+trottbr01,Second Team All-Star,1981,NHL,C,1006
+kaspest01,Selke,1981,NHL,,1007
+smithbi01,Vezina,1981,NHL,,1008
+daousda01,All-Rookie,1982,NHL,C,1009
+houslph01,All-Rookie,1982,NHL,D,1010
+larmest01,All-Rookie,1982,NHL,RW,1011
+lindbpe01,All-Rookie,1982,NHL,G,1012
+nasluma01,All-Rookie,1982,NHL,LW,1013
+stevesc01,All-Rookie,1982,NHL,D,1014
+gretzwa01,Art Ross,1982,NHL,,1015
+larmest01,Calder,1982,NHL,,1016
+smithbi01,Conn Smythe,1982,NHL,,1017
+bossymi01,First Team All-Star,1982,NHL,RW,1018
+gretzwa01,First Team All-Star,1982,NHL,C,1019
+howema01,First Team All-Star,1982,NHL,D,1020
+langwro01,First Team All-Star,1982,NHL,D,1021
+messima01,First Team All-Star,1982,NHL,LW,1022
+peetepe01,First Team All-Star,1982,NHL,G,1023
+gretzwa01,Hart,1982,NHL,,1024
+melanro01,Jennings,1982,NHL,,1025
+smithbi01,Jennings,1982,NHL,,1026
+bossymi01,Lady Byng,1982,NHL,,1027
+mcdonla01,Masterton,1982,NHL,,1028
+langwro01,Norris,1982,NHL,,1029
+gretzwa01,Pearson,1982,NHL,,1030
+huddych01,Plus-Minus,1982,NHL,,1031
+bourqra01,Second Team All-Star,1982,NHL,D,1032
+coffepa01,Second Team All-Star,1982,NHL,D,1033
+goulemi01,Second Team All-Star,1982,NHL,LW,1034
+mcdonla01,Second Team All-Star,1982,NHL,RW,1035
+melanro01,Second Team All-Star,1982,NHL,G,1036
+savarde01,Second Team All-Star,1982,NHL,C,1037
+clarkbo01,Selke,1982,NHL,,1038
+peetepe01,Vezina,1982,NHL,,1039
+barrato01,All-Rookie,1983,NHL,G,1040
+eriksth01,All-Rookie,1983,NHL,D,1041
+loobha01,All-Rookie,1983,NHL,RW,1042
+macouja01,All-Rookie,1983,NHL,D,1043
+turgesy01,All-Rookie,1983,NHL,LW,1044
+yzermst01,All-Rookie,1983,NHL,C,1045
+gretzwa01,Art Ross,1983,NHL,,1046
+barrato01,Calder,1983,NHL,,1047
+messima01,Conn Smythe,1983,NHL,,1048
+barrato01,First Team All-Star,1983,NHL,G,1049
+bossymi01,First Team All-Star,1983,NHL,RW,1050
+bourqra01,First Team All-Star,1983,NHL,D,1051
+goulemi01,First Team All-Star,1983,NHL,LW,1052
+gretzwa01,First Team All-Star,1983,NHL,C,1053
+langwro01,First Team All-Star,1983,NHL,D,1054
+gretzwa01,Hart,1983,NHL,,1055
+jenseal01,Jennings,1983,NHL,,1056
+riggipa01,Jennings,1983,NHL,,1057
+bossymi01,Lady Byng,1983,NHL,,1058
+parkbr01,Masterton,1983,NHL,,1059
+langwro01,Norris,1983,NHL,,1060
+gretzwa01,Pearson,1983,NHL,,1061
+gretzwa01,Plus-Minus,1983,NHL,,1062
+coffepa01,Second Team All-Star,1983,NHL,D,1063
+kurrija01,Second Team All-Star,1983,NHL,RW,1064
+messima01,Second Team All-Star,1983,NHL,LW,1065
+potvide01,Second Team All-Star,1983,NHL,D,1066
+riggipa01,Second Team All-Star,1983,NHL,G,1067
+trottbr01,Second Team All-Star,1983,NHL,C,1068
+jarvido01,Selke,1983,NHL,,1069
+barrato01,Vezina,1983,NHL,,1070
+bellbr01,All-Rookie,1984,NHL,D,1071
+chelich01,All-Rookie,1984,NHL,D,1072
+lemiema01,All-Rookie,1984,NHL,C,1073
+pennest01,All-Rookie,1984,NHL,G,1074
+sandsto01,All-Rookie,1984,NHL,RW,1075
+youngwa01,All-Rookie,1984,NHL,LW,1076
+gretzwa01,Art Ross,1984,NHL,,1077
+lemiema01,Calder,1984,NHL,,1078
+gretzwa01,Conn Smythe,1984,NHL,,1079
+bourqra01,First Team All-Star,1984,NHL,D,1080
+coffepa01,First Team All-Star,1984,NHL,D,1081
+gretzwa01,First Team All-Star,1984,NHL,C,1082
+kurrija01,First Team All-Star,1984,NHL,RW,1083
+lindbpe01,First Team All-Star,1984,NHL,G,1084
+ogrodjo01,First Team All-Star,1984,NHL,LW,1085
+gretzwa01,Hart,1984,NHL,,1086
+barrato01,Jennings,1984,NHL,,1087
+sauvebo01,Jennings,1984,NHL,,1088
+kurrija01,Lady Byng,1984,NHL,,1089
+hedbean01,Masterton,1984,NHL,,1090
+coffepa01,Norris,1984,NHL,,1091
+gretzwa01,Pearson,1984,NHL,,1092
+gretzwa01,Plus-Minus,1984,NHL,,1093
+barrato01,Second Team All-Star,1984,NHL,G,1094
+bossymi01,Second Team All-Star,1984,NHL,RW,1095
+hawerda01,Second Team All-Star,1984,NHL,C,1096
+langwro01,Second Team All-Star,1984,NHL,D,1097
+toneljo01,Second Team All-Star,1984,NHL,LW,1098
+wilsodo01,Second Team All-Star,1984,NHL,D,1099
+ramsacr01,Selke,1984,NHL,,1100
+lindbpe01,Vezina,1984,NHL,,1101
+clarkwe01,All-Rookie,1985,NHL,LW,1102
+dahlikj01,All-Rookie,1985,NHL,RW,1103
+murzyda01,All-Rookie,1985,NHL,D,1104
+ridlemi01,All-Rookie,1985,NHL,C,1105
+roypa01,All-Rookie,1985,NHL,G,1106
+suterga01,All-Rookie,1985,NHL,D,1107
+gretzwa01,Art Ross,1985,NHL,,1108
+suterga01,Calder,1985,NHL,,1109
+roypa01,Conn Smythe,1985,NHL,,1110
+bossymi01,First Team All-Star,1985,NHL,RW,1111
+coffepa01,First Team All-Star,1985,NHL,D,1112
+goulemi01,First Team All-Star,1985,NHL,LW,1113
+gretzwa01,First Team All-Star,1985,NHL,C,1114
+howema01,First Team All-Star,1985,NHL,D,1115
+vanbijo01,First Team All-Star,1985,NHL,G,1116
+gretzwa01,Hart,1985,NHL,,1117
+froesbo01,Jennings,1985,NHL,,1118
+jenseda02,Jennings,1985,NHL,,1119
+bossymi01,Lady Byng,1985,NHL,,1120
+simmech01,Masterton,1985,NHL,,1121
+coffepa01,Norris,1985,NHL,,1122
+lemiema01,Pearson,1985,NHL,,1123
+howema01,Plus-Minus,1985,NHL,,1124
+bourqra01,Second Team All-Star,1985,NHL,D,1125
+froesbo01,Second Team All-Star,1985,NHL,G,1126
+kurrija01,Second Team All-Star,1985,NHL,RW,1127
+lemiema01,Second Team All-Star,1985,NHL,C,1128
+nasluma01,Second Team All-Star,1985,NHL,LW,1129
+robinla01,Second Team All-Star,1985,NHL,D,1130
+murratr01,Selke,1985,NHL,,1131
+vanbijo01,Vezina,1985,NHL,,1132
+bennibr01,All-Rookie,1986,NHL,D,1133
+carsoji01,All-Rookie,1986,NHL,C,1134
+duchest01,All-Rookie,1986,NHL,D,1135
+hextaro01,All-Rookie,1986,NHL,G,1136
+robitlu01,All-Rookie,1986,NHL,LW,1137
+sandlji01,All-Rookie,1986,NHL,RW,1138
+gretzwa01,Art Ross,1986,NHL,,1139
+robitlu01,Calder,1986,NHL,,1140
+hextaro01,Conn Smythe,1986,NHL,,1141
+bourqra01,First Team All-Star,1986,NHL,D,1142
+goulemi01,First Team All-Star,1986,NHL,LW,1143
+gretzwa01,First Team All-Star,1986,NHL,C,1144
+hextaro01,First Team All-Star,1986,NHL,G,1145
+howema01,First Team All-Star,1986,NHL,D,1146
+kurrija01,First Team All-Star,1986,NHL,RW,1147
+gretzwa01,Hart,1986,NHL,,1148
+haywabr01,Jennings,1986,NHL,,1149
+roypa01,Jennings,1986,NHL,,1150
+mullejo01,Lady Byng,1986,NHL,,1151
+jarvido01,Masterton,1986,NHL,,1152
+bourqra01,Norris,1986,NHL,,1153
+gretzwa01,Pearson,1986,NHL,,1154
+gretzwa01,Plus-Minus,1986,NHL,,1155
+kerrti01,Second Team All-Star,1986,NHL,RW,1156
+lemiema01,Second Team All-Star,1986,NHL,C,1157
+liutmi01,Second Team All-Star,1986,NHL,G,1158
+macinal01,Second Team All-Star,1986,NHL,D,1159
+murphla01,Second Team All-Star,1986,NHL,D,1160
+robitlu01,Second Team All-Star,1986,NHL,LW,1161
+poulida02,Selke,1986,NHL,,1162
+hextaro01,Vezina,1986,NHL,,1163
+duncaia01,All-Rookie,1987,NHL,LW,1164
+johanca01,All-Rookie,1987,NHL,D,1165
+nieuwjo01,All-Rookie,1987,NHL,C,1166
+pangda01,All-Rookie,1987,NHL,G,1167
+sheppra01,All-Rookie,1987,NHL,RW,1168
+weslegl01,All-Rookie,1987,NHL,D,1169
+lemiema01,Art Ross,1987,NHL,,1170
+nieuwjo01,Calder,1987,NHL,,1171
+gretzwa01,Conn Smythe,1987,NHL,,1172
+bourqra01,First Team All-Star,1987,NHL,D,1173
+fuhrgr01,First Team All-Star,1987,NHL,G,1174
+lemiema01,First Team All-Star,1987,NHL,C,1175
+loobha01,First Team All-Star,1987,NHL,RW,1176
+robitlu01,First Team All-Star,1987,NHL,LW,1177
+stevesc01,First Team All-Star,1987,NHL,D,1178
+lemiema01,Hart,1987,NHL,,1179
+haywabr01,Jennings,1987,NHL,,1180
+roypa01,Jennings,1987,NHL,,1181
+mcdonla01,King Clancy,1987,NHL,,1182
+nasluma01,Lady Byng,1987,NHL,,1183
+bournbo01,Masterton,1987,NHL,,1184
+bourqra01,Norris,1987,NHL,,1185
+lemiema01,Pearson,1987,NHL,,1186
+mccribr01,Plus-Minus,1987,NHL,,1187
+goulemi01,Second Team All-Star,1987,NHL,LW,1188
+gretzwa01,Second Team All-Star,1987,NHL,C,1189
+mccribr01,Second Team All-Star,1987,NHL,D,1190
+neelyca01,Second Team All-Star,1987,NHL,RW,1191
+roypa01,Second Team All-Star,1987,NHL,G,1192
+suterga01,Second Team All-Star,1987,NHL,D,1193
+carbogu01,Selke,1987,NHL,,1194
+fuhrgr01,Vezina,1987,NHL,,1195
+granato01,All-Rookie,1988,NHL,RW,1196
+leetcbr01,All-Rookie,1988,NHL,D,1197
+lindetr01,All-Rookie,1988,NHL,C,1198
+sidorpe01,All-Rookie,1988,NHL,G,1199
+volekda01,All-Rookie,1988,NHL,LW,1200
+zalapza01,All-Rookie,1988,NHL,D,1201
+lemiema01,Art Ross,1988,NHL,,1202
+leetcbr01,Calder,1988,NHL,,1203
+macinal01,Conn Smythe,1988,NHL,,1204
+chelich01,First Team All-Star,1988,NHL,D,1205
+coffepa01,First Team All-Star,1988,NHL,D,1206
+lemiema01,First Team All-Star,1988,NHL,C,1207
+mullejo01,First Team All-Star,1988,NHL,RW,1208
+robitlu01,First Team All-Star,1988,NHL,LW,1209
+roypa01,First Team All-Star,1988,NHL,G,1210
+gretzwa01,Hart,1988,NHL,,1211
+haywabr01,Jennings,1988,NHL,,1212
+roypa01,Jennings,1988,NHL,,1213
+trottbr01,King Clancy,1988,NHL,,1214
+mullejo01,Lady Byng,1988,NHL,,1215
+kerrti01,Masterton,1988,NHL,,1216
+chelich01,Norris,1988,NHL,,1217
+yzermst01,Pearson,1988,NHL,,1218
+mullejo01,Plus-Minus,1988,NHL,,1219
+bourqra01,Second Team All-Star,1988,NHL,D,1220
+gallage01,Second Team All-Star,1988,NHL,LW,1221
+gretzwa01,Second Team All-Star,1988,NHL,C,1222
+kurrija01,Second Team All-Star,1988,NHL,RW,1223
+macinal01,Second Team All-Star,1988,NHL,D,1224
+vernomi01,Second Team All-Star,1988,NHL,G,1225
+carbogu01,Selke,1988,NHL,,1226
+roypa01,Vezina,1988,NHL,,1227
+brindro01,All-Rookie,1989,NHL,LW,1228
+essenbo01,All-Rookie,1989,NHL,G,1229
+makarse01,All-Rookie,1989,NHL,RW,1230
+modanmi01,All-Rookie,1989,NHL,C,1231
+shawbr01,All-Rookie,1989,NHL,D,1232
+smithge01,All-Rookie,1989,NHL,D,1233
+gretzwa01,Art Ross,1989,NHL,,1234
+makarse01,Calder,1989,NHL,,1235
+ranfobi01,Conn Smythe,1989,NHL,,1236
+bourqra01,First Team All-Star,1989,NHL,D,1237
+hullbr01,First Team All-Star,1989,NHL,RW,1238
+macinal01,First Team All-Star,1989,NHL,D,1239
+messima01,First Team All-Star,1989,NHL,C,1240
+robitlu01,First Team All-Star,1989,NHL,LW,1241
+roypa01,First Team All-Star,1989,NHL,G,1242
+messima01,Hart,1989,NHL,,1243
+lemelre01,Jennings,1989,NHL,,1244
+moogan01,Jennings,1989,NHL,,1245
+loweke01,King Clancy,1989,NHL,,1246
+hullbr01,Lady Byng,1989,NHL,,1247
+kluzago01,Masterton,1989,NHL,,1248
+bourqra01,Norris,1989,NHL,,1249
+messima01,Pearson,1989,NHL,,1250
+cavalpa01,Plus-Minus,1989,NHL,,1251
+bellobr01,Second Team All-Star,1989,NHL,LW,1252
+coffepa01,Second Team All-Star,1989,NHL,D,1253
+gretzwa01,Second Team All-Star,1989,NHL,C,1254
+neelyca01,Second Team All-Star,1989,NHL,RW,1255
+puppada01,Second Team All-Star,1989,NHL,G,1256
+wilsodo01,Second Team All-Star,1989,NHL,D,1257
+meaghri01,Selke,1989,NHL,,1258
+roypa01,Vezina,1989,NHL,,1259
+belfoed01,All-Rookie,1990,NHL,G,1260
+blakero01,All-Rookie,1990,NHL,D,1261
+fedorse01,All-Rookie,1990,NHL,C,1262
+hodgeke02,All-Rookie,1990,NHL,RW,1263
+jagrja01,All-Rookie,1990,NHL,LW,1264
+weinrer01,All-Rookie,1990,NHL,D,1265
+gretzwa01,Art Ross,1990,NHL,,1266
+belfoed01,Calder,1990,NHL,,1267
+lemiema01,Conn Smythe,1990,NHL,,1268
+belfoed01,First Team All-Star,1990,NHL,G,1269
+bourqra01,First Team All-Star,1990,NHL,D,1270
+gretzwa01,First Team All-Star,1990,NHL,C,1271
+hullbr01,First Team All-Star,1990,NHL,RW,1272
+macinal01,First Team All-Star,1990,NHL,D,1273
+robitlu01,First Team All-Star,1990,NHL,LW,1274
+hullbr01,Hart,1990,NHL,,1275
+belfoed01,Jennings,1990,NHL,,1276
+tayloda01,King Clancy,1990,NHL,,1277
+gretzwa01,Lady Byng,1990,NHL,,1278
+tayloda01,Masterton,1990,NHL,,1279
+bourqra01,Norris,1990,NHL,,1280
+hullbr01,Pearson,1990,NHL,,1281
+fleurth01,Plus-Minus,1990,NHL,,1282
+mcsorma01,Plus-Minus,1990,NHL,,1283
+chelich01,Second Team All-Star,1990,NHL,D,1284
+leetcbr01,Second Team All-Star,1990,NHL,D,1285
+neelyca01,Second Team All-Star,1990,NHL,RW,1286
+oatesad01,Second Team All-Star,1990,NHL,C,1287
+roypa01,Second Team All-Star,1990,NHL,G,1288
+steveke01,Second Team All-Star,1990,NHL,LW,1289
+grahadi01,Selke,1990,NHL,,1290
+belfoed01,Vezina,1990,NHL,,1291
+amontto01,All-Rookie,1991,NHL,RW,1292
+dionngi01,All-Rookie,1991,NHL,LW,1293
+hasekdo01,All-Rookie,1991,NHL,G,1294
+konstvl01,All-Rookie,1991,NHL,D,1295
+lidstni01,All-Rookie,1991,NHL,D,1296
+toddke01,All-Rookie,1991,NHL,C,1297
+lemiema01,Art Ross,1991,NHL,,1298
+burepa01,Calder,1991,NHL,,1299
+lemiema01,Conn Smythe,1991,NHL,,1300
+bourqra01,First Team All-Star,1991,NHL,D,1301
+hullbr01,First Team All-Star,1991,NHL,RW,1302
+leetcbr01,First Team All-Star,1991,NHL,D,1303
+messima01,First Team All-Star,1991,NHL,C,1304
+roypa01,First Team All-Star,1991,NHL,G,1305
+steveke01,First Team All-Star,1991,NHL,LW,1306
+messima01,Hart,1991,NHL,,1307
+roypa01,Jennings,1991,NHL,,1308
+bourqra01,King Clancy,1991,NHL,,1309
+gretzwa01,Lady Byng,1991,NHL,,1310
+fitzpma01,Masterton,1991,NHL,,1311
+leetcbr01,Norris,1991,NHL,,1312
+messima01,Pearson,1991,NHL,,1313
+ysebapa01,Plus-Minus,1991,NHL,,1314
+houslph01,Second Team All-Star,1991,NHL,D,1315
+lemiema01,Second Team All-Star,1991,NHL,C,1316
+mcleaki01,Second Team All-Star,1991,NHL,G,1317
+recchma01,Second Team All-Star,1991,NHL,RW,1318
+robitlu01,Second Team All-Star,1991,NHL,LW,1319
+stevesc01,Second Team All-Star,1991,NHL,D,1320
+carbogu01,Selke,1991,NHL,,1321
+roypa01,Vezina,1991,NHL,,1322
+juneajo01,All-Rookie,1992,NHL,LW,1323
+lindrer01,All-Rookie,1992,NHL,C,1324
+malakvl01,All-Rookie,1992,NHL,D,1325
+niedesc01,All-Rookie,1992,NHL,D,1326
+potvife01,All-Rookie,1992,NHL,G,1327
+selante01,All-Rookie,1992,NHL,RW,1328
+lemiema01,Art Ross,1992,NHL,,1329
+selante01,Calder,1992,NHL,,1330
+roypa01,Conn Smythe,1992,NHL,,1331
+belfoed01,First Team All-Star,1992,NHL,G,1332
+bourqra01,First Team All-Star,1992,NHL,D,1333
+chelich01,First Team All-Star,1992,NHL,D,1334
+lemiema01,First Team All-Star,1992,NHL,C,1335
+robitlu01,First Team All-Star,1992,NHL,LW,1336
+selante01,First Team All-Star,1992,NHL,RW,1337
+lemiema01,Hart,1992,NHL,,1338
+belfoed01,Jennings,1992,NHL,,1339
+poulida02,King Clancy,1992,NHL,,1340
+turgepi01,Lady Byng,1992,NHL,,1341
+lemiema01,Masterton,1992,NHL,,1342
+chelich01,Norris,1992,NHL,,1343
+lemiema01,Pearson,1992,NHL,,1344
+lemiema01,Plus-Minus,1992,NHL,,1345
+barrato01,Second Team All-Star,1992,NHL,G,1346
+iafraal01,Second Team All-Star,1992,NHL,D,1347
+lafonpa01,Second Team All-Star,1992,NHL,C,1348
+mogilal01,Second Team All-Star,1992,NHL,RW,1349
+murphla01,Second Team All-Star,1992,NHL,D,1350
+steveke01,Second Team All-Star,1992,NHL,LW,1351
+gilmodo01,Selke,1992,NHL,,1352
+belfoed01,Vezina,1992,NHL,,1353
+arnotja01,All-Rookie,1993,NHL,C,1354
+brodema01,All-Rookie,1993,NHL,G,1355
+mironbo01,All-Rookie,1993,NHL,D,1356
+petrool01,All-Rookie,1993,NHL,W,1357
+prongch01,All-Rookie,1993,NHL,D,1358
+renbemi01,All-Rookie,1993,NHL,W,1359
+gretzwa01,Art Ross,1993,NHL,,1360
+brodema01,Calder,1993,NHL,,1361
+leetcbr01,Conn Smythe,1993,NHL,,1362
+bourqra01,First Team All-Star,1993,NHL,D,1363
+burepa01,First Team All-Star,1993,NHL,RW,1364
+fedorse01,First Team All-Star,1993,NHL,C,1365
+hasekdo01,First Team All-Star,1993,NHL,G,1366
+shanabr01,First Team All-Star,1993,NHL,LW,1367
+stevesc01,First Team All-Star,1993,NHL,D,1368
+fedorse01,Hart,1993,NHL,,1369
+fuhrgr01,Jennings,1993,NHL,,1370
+hasekdo01,Jennings,1993,NHL,,1371
+gravead01,King Clancy,1993,NHL,,1372
+gretzwa01,Lady Byng,1993,NHL,,1373
+neelyca01,Masterton,1993,NHL,,1374
+bourqra01,Norris,1993,NHL,,1375
+fedorse01,Pearson,1993,NHL,,1376
+stevesc01,Plus-Minus,1993,NHL,,1377
+gravead01,Second Team All-Star,1993,NHL,LW,1378
+gretzwa01,Second Team All-Star,1993,NHL,C,1379
+leetcbr01,Second Team All-Star,1993,NHL,D,1380
+macinal01,Second Team All-Star,1993,NHL,D,1381
+neelyca01,Second Team All-Star,1993,NHL,RW,1382
+vanbijo01,Second Team All-Star,1993,NHL,G,1383
+fedorse01,Selke,1993,NHL,,1384
+hasekdo01,Vezina,1993,NHL,,1385
+careyji01,All-Rookie,1994,NHL,G,1386
+forsbpe01,All-Rookie,1994,NHL,F,1387
+friesje01,All-Rookie,1994,NHL,F,1388
+jonsske01,All-Rookie,1994,NHL,D,1389
+kariypa01,All-Rookie,1994,NHL,F,1390
+therich01,All-Rookie,1994,NHL,D,1391
+jagrja01,Art Ross,1994,NHL,,1392
+forsbpe01,Calder,1994,NHL,,1393
+lemiecl01,Conn Smythe,1994,NHL,,1394
+chelich01,First Team All-Star,1994,NHL,D,1395
+coffepa01,First Team All-Star,1994,NHL,D,1396
+hasekdo01,First Team All-Star,1994,NHL,G,1397
+jagrja01,First Team All-Star,1994,NHL,RW,1398
+leclajo01,First Team All-Star,1994,NHL,LW,1399
+lindrer01,First Team All-Star,1994,NHL,C,1400
+lindrer01,Hart,1994,NHL,,1401
+belfoed01,Jennings,1994,NHL,,1402
+nieuwjo01,King Clancy,1994,NHL,,1403
+francro01,Lady Byng,1994,NHL,,1404
+lafonpa01,Masterton,1994,NHL,,1405
+coffepa01,Norris,1994,NHL,,1406
+lindrer01,Pearson,1994,NHL,,1407
+francro01,Plus-Minus,1994,NHL,,1408
+belfoed01,Second Team All-Star,1994,NHL,G,1409
+bourqra01,Second Team All-Star,1994,NHL,D,1410
+fleurth01,Second Team All-Star,1994,NHL,RW,1411
+murphla01,Second Team All-Star,1994,NHL,D,1412
+tkachke01,Second Team All-Star,1994,NHL,LW,1413
+zhamnal01,Second Team All-Star,1994,NHL,C,1414
+francro01,Selke,1994,NHL,,1415
+hasekdo01,Vezina,1994,NHL,,1416
+alfreda01,All-Rookie,1995,NHL,F,1417
+dazeer01,All-Rookie,1995,NHL,F,1418
+hirscco01,All-Rookie,1995,NHL,G,1419
+jovaned01,All-Rookie,1995,NHL,D,1420
+mclarky01,All-Rookie,1995,NHL,D,1421
+sykorpe01,All-Rookie,1995,NHL,F,1422
+lemiema01,Art Ross,1995,NHL,,1423
+alfreda01,Calder,1995,NHL,,1424
+sakicjo01,Conn Smythe,1995,NHL,,1425
+bourqra01,First Team All-Star,1995,NHL,D,1426
+careyji01,First Team All-Star,1995,NHL,G,1427
+chelich01,First Team All-Star,1995,NHL,D,1428
+jagrja01,First Team All-Star,1995,NHL,RW,1429
+kariypa01,First Team All-Star,1995,NHL,LW,1430
+lemiema01,First Team All-Star,1995,NHL,C,1431
+lemiema01,Hart,1995,NHL,,1432
+osgooch01,Jennings,1995,NHL,,1433
+vernomi01,Jennings,1995,NHL,,1434
+kingkr01,King Clancy,1995,NHL,,1435
+kariypa01,Lady Byng,1995,NHL,,1436
+roberga01,Masterton,1995,NHL,,1437
+chelich01,Norris,1995,NHL,,1438
+lemiema01,Pearson,1995,NHL,,1439
+konstvl01,Plus-Minus,1995,NHL,,1440
+konstvl01,Second Team All-Star,1995,NHL,D,1441
+leclajo01,Second Team All-Star,1995,NHL,LW,1442
+leetcbr01,Second Team All-Star,1995,NHL,D,1443
+lindrer01,Second Team All-Star,1995,NHL,C,1444
+mogilal01,Second Team All-Star,1995,NHL,RW,1445
+osgooch01,Second Team All-Star,1995,NHL,G,1446
+fedorse01,Selke,1995,NHL,,1447
+careyji01,Vezina,1995,NHL,,1448
+berarbr01,All-Rookie,1996,NHL,D,1449
+berezse01,All-Rookie,1996,NHL,F,1450
+campbji01,All-Rookie,1996,NHL,F,1451
+iginlja01,All-Rookie,1996,NHL,F,1452
+lalimpa01,All-Rookie,1996,NHL,G,1453
+niinija01,All-Rookie,1996,NHL,D,1454
+lemiema01,Art Ross,1996,NHL,,1455
+berarbr01,Calder,1996,NHL,,1456
+vernomi01,Conn Smythe,1996,NHL,,1457
+hasekdo01,First Team All-Star,1996,NHL,G,1458
+kariypa01,First Team All-Star,1996,NHL,LW,1459
+leetcbr01,First Team All-Star,1996,NHL,D,1460
+lemiema01,First Team All-Star,1996,NHL,C,1461
+ozolisa01,First Team All-Star,1996,NHL,D,1462
+selante01,First Team All-Star,1996,NHL,RW,1463
+hasekdo01,Hart,1996,NHL,,1464
+brodema01,Jennings,1996,NHL,,1465
+dunhami01,Jennings,1996,NHL,,1466
+lindetr01,King Clancy,1996,NHL,,1467
+kariypa01,Lady Byng,1996,NHL,,1468
+granato01,Masterton,1996,NHL,,1469
+leetcbr01,Norris,1996,NHL,,1470
+hasekdo01,Pearson,1996,NHL,,1471
+leclajo01,Plus-Minus,1996,NHL,,1472
+brodema01,Second Team All-Star,1996,NHL,G,1473
+chelich01,Second Team All-Star,1996,NHL,D,1474
+gretzwa01,Second Team All-Star,1996,NHL,C,1475
+jagrja01,Second Team All-Star,1996,NHL,RW,1476
+leclajo01,Second Team All-Star,1996,NHL,LW,1477
+stevesc01,Second Team All-Star,1996,NHL,D,1478
+pecami01,Selke,1996,NHL,,1479
+hasekdo01,Vezina,1996,NHL,,1480
+eliaspa01,All-Rookie,1997,NHL,F,1481
+johnsmi01,All-Rookie,1997,NHL,F,1482
+morride01,All-Rookie,1997,NHL,D,1483
+ohlunma01,All-Rookie,1997,NHL,D,1484
+samsose01,All-Rookie,1997,NHL,F,1485
+storrja01,All-Rookie,1997,NHL,G,1486
+jagrja01,Art Ross,1997,NHL,,1487
+samsose01,Calder,1997,NHL,,1488
+yzermst01,Conn Smythe,1997,NHL,,1489
+blakero01,First Team All-Star,1997,NHL,D,1490
+forsbpe01,First Team All-Star,1997,NHL,C,1491
+hasekdo01,First Team All-Star,1997,NHL,G,1492
+jagrja01,First Team All-Star,1997,NHL,RW,1493
+leclajo01,First Team All-Star,1997,NHL,LW,1494
+lidstni01,First Team All-Star,1997,NHL,D,1495
+hasekdo01,Hart,1997,NHL,,1496
+brodema01,Jennings,1997,NHL,,1497
+chaseke01,King Clancy,1997,NHL,,1498
+francro01,Lady Byng,1997,NHL,,1499
+mclenja01,Masterton,1997,NHL,,1500
+blakero01,Norris,1997,NHL,,1501
+hasekdo01,Pearson,1997,NHL,,1502
+prongch01,Plus-Minus,1997,NHL,,1503
+brodema01,Second Team All-Star,1997,NHL,G,1504
+gretzwa01,Second Team All-Star,1997,NHL,C,1505
+niedesc01,Second Team All-Star,1997,NHL,D,1506
+prongch01,Second Team All-Star,1997,NHL,D,1507
+selante01,Second Team All-Star,1997,NHL,RW,1508
+tkachke01,Second Team All-Star,1997,NHL,LW,1509
+lehtije01,Selke,1997,NHL,,1510
+hasekdo01,Vezina,1997,NHL,,1511
+drurych01,All-Rookie,1998,NHL,F,1512
+hejdumi01,All-Rookie,1998,NHL,F,1513
+hossama01,All-Rookie,1998,NHL,F,1514
+potito01,All-Rookie,1998,NHL,D,1515
+salosa01,All-Rookie,1998,NHL,D,1516
+storrja01,All-Rookie,1998,NHL,G,1517
+jagrja01,Art Ross,1998,NHL,,1518
+drurych01,Calder,1998,NHL,,1519
+nieuwjo01,Conn Smythe,1998,NHL,,1520
+forsbpe01,First Team All-Star,1998,NHL,C,1521
+hasekdo01,First Team All-Star,1998,NHL,G,1522
+jagrja01,First Team All-Star,1998,NHL,RW,1523
+kariypa01,First Team All-Star,1998,NHL,LW,1524
+lidstni01,First Team All-Star,1998,NHL,D,1525
+macinal01,First Team All-Star,1998,NHL,D,1526
+jagrja01,Hart,1998,NHL,,1527
+belfoed01,Jennings,1998,NHL,,1528
+turekro01,Jennings,1998,NHL,,1529
+rayro01,King Clancy,1998,NHL,,1530
+gretzwa01,Lady Byng,1998,NHL,,1531
+cullejo01,Masterton,1998,NHL,,1532
+macinal01,Norris,1998,NHL,,1533
+jagrja01,Pearson,1998,NHL,,1534
+leclajo01,Plus-Minus,1998,NHL,,1535
+selante01,Richard,1998,NHL,,1536
+bourqra01,Second Team All-Star,1998,NHL,D,1537
+dafoeby01,Second Team All-Star,1998,NHL,G,1538
+desjaer01,Second Team All-Star,1998,NHL,D,1539
+leclajo01,Second Team All-Star,1998,NHL,LW,1540
+selante01,Second Team All-Star,1998,NHL,RW,1541
+yashial01,Second Team All-Star,1998,NHL,C,1542
+lehtije01,Selke,1998,NHL,,1543
+hasekdo01,Vezina,1998,NHL,,1544
+bouchbr01,All-Rookie,1999,NHL,G,1545
+gagnesi01,All-Rookie,1999,NHL,F,1546
+gomezsc01,All-Rookie,1999,NHL,F,1547
+rafalbr01,All-Rookie,1999,NHL,D,1548
+stuarbr01,All-Rookie,1999,NHL,D,1549
+yorkmi01,All-Rookie,1999,NHL,F,1550
+jagrja01,Art Ross,1999,NHL,,1551
+gomezsc01,Calder,1999,NHL,,1552
+stevesc01,Conn Smythe,1999,NHL,,1553
+belfoed01,Crozier,1999,NHL,,1554
+jagrja01,First Team All-Star,1999,NHL,RW,1555
+kolziol01,First Team All-Star,1999,NHL,G,1556
+lidstni01,First Team All-Star,1999,NHL,D,1557
+prongch01,First Team All-Star,1999,NHL,D,1558
+shanabr01,First Team All-Star,1999,NHL,LW,1559
+yzermst01,First Team All-Star,1999,NHL,C,1560
+prongch01,Hart,1999,NHL,,1561
+turekro01,Jennings,1999,NHL,,1562
+josepcu01,King Clancy,1999,NHL,,1563
+demitpa01,Lady Byng,1999,NHL,,1564
+daneyke01,Masterton,1999,NHL,,1565
+prongch01,Norris,1999,NHL,,1566
+jagrja01,Pearson,1999,NHL,,1567
+prongch01,Plus-Minus,1999,NHL,,1568
+burepa01,Richard,1999,NHL,,1569
+blakero01,Second Team All-Star,1999,NHL,D,1570
+burepa01,Second Team All-Star,1999,NHL,RW,1571
+desjaer01,Second Team All-Star,1999,NHL,D,1572
+kariypa01,Second Team All-Star,1999,NHL,LW,1573
+modanmi01,Second Team All-Star,1999,NHL,C,1574
+turekro01,Second Team All-Star,1999,NHL,G,1575
+yzermst01,Selke,1999,NHL,,1576
+kolziol01,Vezina,1999,NHL,,1577
+havlama01,All-Rookie,2000,NHL,F,1578
+nabokev01,All-Rookie,2000,NHL,G,1579
+richabr01,All-Rookie,2000,NHL,F,1580
+visnolu01,All-Rookie,2000,NHL,D,1581
+whiteco01,All-Rookie,2000,NHL,D,1582
+willish01,All-Rookie,2000,NHL,F,1583
+jagrja01,Art Ross,2000,NHL,,1584
+nabokev01,Calder,2000,NHL,,1585
+roypa01,Conn Smythe,2000,NHL,,1586
+turcoma01,Crozier,2000,NHL,,1587
+bourqra01,First Team All-Star,2000,NHL,D,1588
+eliaspa01,First Team All-Star,2000,NHL,LW,1589
+hasekdo01,First Team All-Star,2000,NHL,G,1590
+jagrja01,First Team All-Star,2000,NHL,RW,1591
+lidstni01,First Team All-Star,2000,NHL,D,1592
+sakicjo01,First Team All-Star,2000,NHL,C,1593
+sakicjo01,Hart,2000,NHL,,1594
+hasekdo01,Jennings,2000,NHL,,1595
+podeish01,King Clancy,2000,NHL,,1596
+sakicjo01,Lady Byng,2000,NHL,,1597
+gravead01,Masterton,2000,NHL,,1598
+lidstni01,Norris,2000,NHL,,1599
+sakicjo01,Pearson,2000,NHL,,1600
+eliaspa01,Plus-Minus,2000,NHL,,1601
+sakicjo01,Plus-Minus,2000,NHL,,1602
+burepa01,Richard,2000,NHL,,1603
+blakero01,Second Team All-Star,2000,NHL,D,1604
+burepa01,Second Team All-Star,2000,NHL,RW,1605
+cechmro01,Second Team All-Star,2000,NHL,G,1606
+lemiema01,Second Team All-Star,2000,NHL,C,1607
+robitlu01,Second Team All-Star,2000,NHL,LW,1608
+stevesc01,Second Team All-Star,2000,NHL,D,1609
+maddejo01,Selke,2000,NHL,,1610
+hasekdo01,Vezina,2000,NHL,,1611
+blackda01,All-Rookie,2001,NHL,G,1612
+boyntni01,All-Rookie,2001,NHL,D,1613
+heatlda01,All-Rookie,2001,NHL,F,1614
+huselkr01,All-Rookie,2001,NHL,F,1615
+kleslro01,All-Rookie,2001,NHL,D,1616
+kovalil01,All-Rookie,2001,NHL,F,1617
+iginlja01,Art Ross,2001,NHL,,1618
+heatlda01,Calder,2001,NHL,,1619
+lidstni01,Conn Smythe,2001,NHL,,1620
+theodjo01,Crozier,2001,NHL,,1621
+chelich01,First Team All-Star,2001,NHL,D,1622
+iginlja01,First Team All-Star,2001,NHL,RW,1623
+lidstni01,First Team All-Star,2001,NHL,D,1624
+nasluma02,First Team All-Star,2001,NHL,LW,1625
+roypa01,First Team All-Star,2001,NHL,G,1626
+sakicjo01,First Team All-Star,2001,NHL,C,1627
+theodjo01,Hart,2001,NHL,,1628
+roypa01,Jennings,2001,NHL,,1629
+francro01,King Clancy,2001,NHL,,1630
+francro01,Lady Byng,2001,NHL,,1631
+koivusa01,Masterton,2001,NHL,,1632
+lidstni01,Norris,2001,NHL,,1633
+iginlja01,Pearson,2001,NHL,,1634
+chelich01,Plus-Minus,2001,NHL,,1635
+iginlja01,Richard,2001,NHL,,1636
+blakero01,Second Team All-Star,2001,NHL,D,1637
+gonchse01,Second Team All-Star,2001,NHL,D,1638
+gueribi01,Second Team All-Star,2001,NHL,RW,1639
+shanabr01,Second Team All-Star,2001,NHL,LW,1640
+sundima01,Second Team All-Star,2001,NHL,C,1641
+theodjo01,Second Team All-Star,2001,NHL,G,1642
+pecami01,Selke,2001,NHL,,1643
+theodjo01,Vezina,2001,NHL,,1644
+arnasty01,All-Rookie,2002,NHL,F,1645
+bouwmja01,All-Rookie,2002,NHL,D,1646
+caronse01,All-Rookie,2002,NHL,G,1647
+jackmba01,All-Rookie,2002,NHL,D,1648
+nashri01,All-Rookie,2002,NHL,F,1649
+zettehe01,All-Rookie,2002,NHL,F,1650
+forsbpe01,Art Ross,2002,NHL,,1651
+jackmba01,Calder,2002,NHL,,1652
+gigueje01,Conn Smythe,2002,NHL,,1653
+turcoma01,Crozier,2002,NHL,,1654
+bertuto01,First Team All-Star,2002,NHL,RW,1655
+brodema01,First Team All-Star,2002,NHL,G,1656
+forsbpe01,First Team All-Star,2002,NHL,C,1657
+lidstni01,First Team All-Star,2002,NHL,D,1658
+macinal01,First Team All-Star,2002,NHL,D,1659
+nasluma02,First Team All-Star,2002,NHL,LW,1660
+forsbpe01,Hart,2002,NHL,,1661
+brodema01,Jennings,2002,NHL,,1662
+cechmro01,Jennings,2002,NHL,,1663
+eschero01,Jennings,2002,NHL,,1664
+shanabr01,King Clancy,2002,NHL,,1665
+mogilal01,Lady Byng,2002,NHL,,1666
+yzermst01,Masterton,2002,NHL,,1667
+lidstni01,Norris,2002,NHL,,1668
+nasluma02,Pearson,2002,NHL,,1669
+forsbpe01,Plus-Minus,2002,NHL,,1670
+hejdumi01,Plus-Minus,2002,NHL,,1671
+hejdumi01,Richard,2002,NHL,,1672
+gonchse01,Second Team All-Star,2002,NHL,D,1673
+hatchde01,Second Team All-Star,2002,NHL,D,1674
+hejdumi01,Second Team All-Star,2002,NHL,RW,1675
+kariypa01,Second Team All-Star,2002,NHL,LW,1676
+thornjo01,Second Team All-Star,2002,NHL,C,1677
+turcoma01,Second Team All-Star,2002,NHL,G,1678
+lehtije01,Selke,2002,NHL,,1679
+brodema01,Vezina,2002,NHL,,1680
+huntetr01,All-Rookie,2003,NHL,F,1681
+lilesjo01,All-Rookie,2003,NHL,D,1682
+malonry01,All-Rookie,2003,NHL,F,1683
+pitkajo01,All-Rookie,2003,NHL,D,1684
+raycran01,All-Rookie,2003,NHL,G,1685
+rydermi01,All-Rookie,2003,NHL,F,1686
+stlouma01,Art Ross,2003,NHL,,1687
+raycran01,Calder,2003,NHL,,1688
+richabr01,Conn Smythe,2003,NHL,,1689
+rolosdw01,Crozier,2003,NHL,,1690
+brodema01,First Team All-Star,2003,NHL,G,1691
+charazd01,First Team All-Star,2003,NHL,D,1692
+nasluma02,First Team All-Star,2003,NHL,LW,1693
+niedesc01,First Team All-Star,2003,NHL,D,1694
+sakicjo01,First Team All-Star,2003,NHL,C,1695
+stlouma01,First Team All-Star,2003,NHL,RW,1696
+stlouma01,Hart,2003,NHL,,1697
+brodema01,Jennings,2003,NHL,,1698
+iginlja01,King Clancy,2003,NHL,,1699
+richabr01,Lady Byng,2003,NHL,,1700
+berarbr01,Masterton,2003,NHL,,1701
+niedesc01,Norris,2003,NHL,,1702
+stlouma01,Pearson,2003,NHL,,1703
+malikma01,Plus-Minus,2003,NHL,,1704
+stlouma01,Plus-Minus,2003,NHL,,1705
+iginlja01,Richard,2003,NHL,,1706
+kovalil01,Richard,2003,NHL,,1707
+nashri01,Richard,2003,NHL,,1708
+iginlja01,Second Team All-Star,2003,NHL,RW,1709
+kovalil01,Second Team All-Star,2003,NHL,LW,1710
+luongro01,Second Team All-Star,2003,NHL,G,1711
+mccabbr01,Second Team All-Star,2003,NHL,D,1712
+prongch01,Second Team All-Star,2003,NHL,D,1713
+sundima01,Second Team All-Star,2003,NHL,C,1714
+drapekr01,Selke,2003,NHL,,1715
+brodema01,Vezina,2003,NHL,,1716
+boyesbr01,All-Rookie,2005,NHL,F,1717
+crosbsi01,All-Rookie,2005,NHL,F,1718
+lundqhe01,All-Rookie,2005,NHL,G,1719
+meszaan01,All-Rookie,2005,NHL,D,1720
+ovechal01,All-Rookie,2005,NHL,F,1721
+phanedi01,All-Rookie,2005,NHL,D,1722
+thornjo01,Art Ross,2005,NHL,,1723
+ovechal01,Calder,2005,NHL,,1724
+wardca01,Conn Smythe,2005,NHL,,1725
+huetcr01,Crozier,2005,NHL,,1726
+jagrja01,First Team All-Star,2005,NHL,RW,1727
+kiprumi01,First Team All-Star,2005,NHL,G,1728
+lidstni01,First Team All-Star,2005,NHL,D,1729
+niedesc01,First Team All-Star,2005,NHL,D,1730
+ovechal01,First Team All-Star,2005,NHL,LW,1731
+thornjo01,First Team All-Star,2005,NHL,C,1732
+thornjo01,Hart,2005,NHL,,1733
+kiprumi01,Jennings,2005,NHL,,1734
+kolziol01,King Clancy,2005,NHL,,1735
+datsypa01,Lady Byng,2005,NHL,,1736
+selante01,Masterton,2005,NHL,,1737
+lidstni01,Norris,2005,NHL,,1738
+jagrja01,Pearson,2005,NHL,,1739
+reddewa01,Plus-Minus,2005,NHL,,1740
+rozsimi01,Plus-Minus,2005,NHL,,1741
+cheecjo01,Richard,2005,NHL,,1742
+alfreda01,Second Team All-Star,2005,NHL,RW,1743
+brodema01,Second Team All-Star,2005,NHL,G,1744
+charazd01,Second Team All-Star,2005,NHL,D,1745
+heatlda01,Second Team All-Star,2005,NHL,LW,1746
+staaler01,Second Team All-Star,2005,NHL,C,1747
+zubovse01,Second Team All-Star,2005,NHL,D,1748
+brindro01,Selke,2005,NHL,,1749
+kiprumi01,Vezina,2005,NHL,,1750
+carlema01,All-Rookie,2006,NHL,D,1751
+malkiev01,All-Rookie,2006,NHL,F,1752
+smithmi02,All-Rookie,2006,NHL,G,1753
+staaljo01,All-Rookie,2006,NHL,F,1754
+stastpa01,All-Rookie,2006,NHL,F,1755
+vlasima01,All-Rookie,2006,NHL,D,1756
+crosbsi01,Art Ross,2006,NHL,,1757
+malkiev01,Calder,2006,NHL,,1758
+niedesc01,Conn Smythe,2006,NHL,,1759
+backsni01,Crozier,2006,NHL,,1760
+brodema01,First Team All-Star,2006,NHL,G,1761
+crosbsi01,First Team All-Star,2006,NHL,C,1762
+heatlda01,First Team All-Star,2006,NHL,RW,1763
+lidstni01,First Team All-Star,2006,NHL,D,1764
+niedesc01,First Team All-Star,2006,NHL,D,1765
+ovechal01,First Team All-Star,2006,NHL,LW,1766
+crosbsi01,Hart,2006,NHL,,1767
+backsni01,Jennings,2006,NHL,,1768
+fernama01,Jennings,2006,NHL,,1769
+koivusa01,King Clancy,2006,NHL,,1770
+datsypa01,Lady Byng,2006,NHL,,1771
+kesseph01,Masterton,2006,NHL,,1772
+chelich01,Messier,2006,NHL,,1773
+lidstni01,Norris,2006,NHL,,1774
+crosbsi01,Pearson,2006,NHL,,1775
+vanekth01,Plus-Minus,2006,NHL,,1776
+lecavvi01,Richard,2006,NHL,,1777
+boyleda01,Second Team All-Star,2006,NHL,D,1778
+lecavvi01,Second Team All-Star,2006,NHL,C,1779
+luongro01,Second Team All-Star,2006,NHL,G,1780
+prongch01,Second Team All-Star,2006,NHL,D,1781
+stlouma01,Second Team All-Star,2006,NHL,RW,1782
+vanekth01,Second Team All-Star,2006,NHL,LW,1783
+brindro01,Selke,2006,NHL,,1784
+brodema01,Vezina,2006,NHL,,1785
+backsni02,All-Rookie,2007,NHL,F,1786
+enstrto01,All-Rookie,2007,NHL,D,1787
+gilbeto01,All-Rookie,2007,NHL,D,1788
+kanepa01,All-Rookie,2007,NHL,F,1789
+priceca01,All-Rookie,2007,NHL,G,1790
+toewsjo01,All-Rookie,2007,NHL,F,1791
+ovechal01,Art Ross,2007,NHL,,1792
+kanepa01,Calder,2007,NHL,,1793
+zettehe01,Conn Smythe,2007,NHL,,1794
+ellisda01,Crozier,2007,NHL,,1795
+iginlja01,First Team All-Star,2007,NHL,RW,1796
+lidstni01,First Team All-Star,2007,NHL,D,1797
+malkiev01,First Team All-Star,2007,NHL,C,1798
+nabokev01,First Team All-Star,2007,NHL,G,1799
+ovechal01,First Team All-Star,2007,NHL,LW,1800
+phanedi01,First Team All-Star,2007,NHL,D,1801
+ovechal01,Hart,2007,NHL,,1802
+hasekdo01,Jennings,2007,NHL,,1803
+osgooch01,Jennings,2007,NHL,,1804
+lecavvi01,King Clancy,2007,NHL,,1805
+datsypa01,Lady Byng,2007,NHL,,1806
+blakeja01,Masterton,2007,NHL,,1807
+sundima01,Messier,2007,NHL,,1808
+lidstni01,Norris,2007,NHL,,1809
+ovechal01,Pearson,2007,NHL,,1810
+datsypa01,Plus-Minus,2007,NHL,,1811
+ovechal01,Richard,2007,NHL,,1812
+brodema01,Second Team All-Star,2007,NHL,G,1813
+campbbr02,Second Team All-Star,2007,NHL,D,1814
+charazd01,Second Team All-Star,2007,NHL,D,1815
+kovalal01,Second Team All-Star,2007,NHL,RW,1816
+thornjo01,Second Team All-Star,2007,NHL,C,1817
+zettehe01,Second Team All-Star,2007,NHL,LW,1818
+datsypa01,Selke,2007,NHL,,1819
+brodema01,Vezina,2007,NHL,,1820
+berglpa01,All-Rookie,2008,NHL,F,1821
+doughdr01,All-Rookie,2008,NHL,D,1822
+masonst01,All-Rookie,2008,NHL,G,1823
+ryanbo01,All-Rookie,2008,NHL,F,1824
+schenlu01,All-Rookie,2008,NHL,D,1825
+verstkr01,All-Rookie,2008,NHL,F,1826
+malkiev01,Art Ross,2008,NHL,,1827
+masonst01,Calder,2008,NHL,,1828
+malkiev01,Conn Smythe,2008,NHL,,1829
+thomati01,Crozier,2008,NHL,,1830
+charazd01,First Team All-Star,2008,NHL,D,1831
+greenmi03,First Team All-Star,2008,NHL,D,1832
+iginlja01,First Team All-Star,2008,NHL,RW,1833
+malkiev01,First Team All-Star,2008,NHL,C,1834
+ovechal01,First Team All-Star,2008,NHL,LW,1835
+thomati01,First Team All-Star,2008,NHL,G,1836
+ovechal01,Hart,2008,NHL,,1837
+fernama01,Jennings,2008,NHL,,1838
+thomati01,Jennings,2008,NHL,,1839
+moreaet01,King Clancy,2008,NHL,,1840
+datsypa01,Lady Byng,2008,NHL,,1841
+sullist01,Masterton,2008,NHL,,1842
+iginlja01,Messier,2008,NHL,,1843
+charazd01,Norris,2008,NHL,,1844
+ovechal01,Pearson,2008,NHL,,1845
+krejcda01,Plus-Minus,2008,NHL,,1846
+ovechal01,Richard,2008,NHL,,1847
+boyleda01,Second Team All-Star,2008,NHL,D,1848
+datsypa01,Second Team All-Star,2008,NHL,C,1849
+hossama01,Second Team All-Star,2008,NHL,RW,1850
+lidstni01,Second Team All-Star,2008,NHL,D,1851
+masonst01,Second Team All-Star,2008,NHL,G,1852
+parisza01,Second Team All-Star,2008,NHL,LW,1853
+datsypa01,Selke,2008,NHL,,1854
+thomati01,Vezina,2008,NHL,,1855
+bergfni01,All-Rookie,2009,NHL,F,1856
+delzomi01,All-Rookie,2009,NHL,D,1857
+duchema01,All-Rookie,2009,NHL,F,1858
+howarji01,All-Rookie,2009,NHL,G,1859
+myersty01,All-Rookie,2009,NHL,D,1860
+tavarjo01,All-Rookie,2009,NHL,F,1861
+sedinhe01,Art Ross,2009,NHL,,1862
+myersty01,Calder,2009,NHL,,1863
+toewsjo01,Conn Smythe,2009,NHL,,1864
+rasktu01,Crozier,2009,NHL,,1865
+greenmi03,First Team All-Star,2009,NHL,D,1866
+kanepa01,First Team All-Star,2009,NHL,RW,1867
+keithdu01,First Team All-Star,2009,NHL,D,1868
+millery01,First Team All-Star,2009,NHL,G,1869
+ovechal01,First Team All-Star,2009,NHL,LW,1870
+sedinhe01,First Team All-Star,2009,NHL,C,1871
+sedinhe01,Hart,2009,NHL,,1872
+brodema01,Jennings,2009,NHL,,1873
+doansh01,King Clancy,2009,NHL,,1874
+stlouma01,Lady Byng,2009,NHL,,1875
+ovechal01,Lindsay,2009,NHL,,1876
+theodjo01,Masterton,2009,NHL,,1877
+crosbsi01,Messier,2009,NHL,,1878
+keithdu01,Norris,2009,NHL,,1879
+schulje02,Plus-Minus,2009,NHL,,1880
+crosbsi01,Richard,2009,NHL,,1881
+stamkst01,Richard,2009,NHL,,1882
+bryzgil01,Second Team All-Star,2009,NHL,G,1883
+crosbsi01,Second Team All-Star,2009,NHL,C,1884
+doughdr01,Second Team All-Star,2009,NHL,D,1885
+lidstni01,Second Team All-Star,2009,NHL,D,1886
+sedinda01,Second Team All-Star,2009,NHL,LW,1887
+stlouma01,Second Team All-Star,2009,NHL,RW,1888
+datsypa01,Selke,2009,NHL,,1889
+millery01,Vezina,2009,NHL,,1890
+carlsjo01,All-Rookie,2010,NHL,D,1891
+coutulo01,All-Rookie,2010,NHL,F,1892
+crawfco01,All-Rookie,2010,NHL,G,1893
+grabnmi01,All-Rookie,2010,NHL,F,1894
+skinnje01,All-Rookie,2010,NHL,F,1895
+subbapk01,All-Rookie,2010,NHL,D,1896
+sedinda01,Art Ross,2010,NHL,,1897
+skinnje01,Calder,2010,NHL,,1898
+thomati01,Conn Smythe,2010,NHL,,1899
+thomati01,Crozier,2010,NHL,,1900
+lidstni01,First Team All-Star,2010,NHL,D,1901
+perryco01,First Team All-Star,2010,NHL,RW,1902
+sedinda01,First Team All-Star,2010,NHL,LW,1903
+sedinhe01,First Team All-Star,2010,NHL,C,1904
+thomati01,First Team All-Star,2010,NHL,G,1905
+webersh01,First Team All-Star,2010,NHL,D,1906
+perryco01,Hart,2010,NHL,,1907
+luongro01,Jennings,2010,NHL,,1908
+schneco01,Jennings,2010,NHL,,1909
+weighdo01,King Clancy,2010,NHL,,1910
+stlouma01,Lady Byng,2010,NHL,,1911
+sedinda01,Lindsay,2010,NHL,,1912
+laperia01,Masterton,2010,NHL,,1913
+charazd01,Messier,2010,NHL,,1914
+lidstni01,Norris,2010,NHL,,1915
+charazd01,Plus-Minus,2010,NHL,,1916
+perryco01,Richard,2010,NHL,,1917
+charazd01,Second Team All-Star,2010,NHL,D,1918
+ovechal01,Second Team All-Star,2010,NHL,LW,1919
+rinnepe01,Second Team All-Star,2010,NHL,G,1920
+stamkst01,Second Team All-Star,2010,NHL,C,1921
+stlouma01,Second Team All-Star,2010,NHL,RW,1922
+visnolu01,Second Team All-Star,2010,NHL,D,1923
+keslery01,Selke,2010,NHL,,1924
+thomati01,Vezina,2010,NHL,,1925
+enrotjh01,All-Rookie,2011,NHL,G,1926
+faulkju01,All-Rookie,2011,NHL,D,1927
+gardija01,All-Rookie,2011,NHL,D,1928
+henriad01,All-Rookie,2011,NHL,F,1929
+landega01,All-Rookie,2011,NHL,F,1930
+nugenry01,All-Rookie,2011,NHL,F,1931
+malkiev01,Art Ross,2011,NHL,,1932
+landega01,Calder,2011,NHL,,1933
+quickjo01,Conn Smythe,2011,NHL,,1934
+elliobr01,Crozier,2011,NHL,,1935
+karlser01,First Team All-Star,2011,NHL,D,1936
+kovalil01,First Team All-Star,2011,NHL,LW,1937
+lundqhe01,First Team All-Star,2011,NHL,G,1938
+malkiev01,First Team All-Star,2011,NHL,C,1939
+nealja01,First Team All-Star,2011,NHL,RW,1940
+webersh01,First Team All-Star,2011,NHL,D,1941
+malkiev01,Hart,2011,NHL,,1942
+elliobr01,Jennings,2011,NHL,,1943
+halakja01,Jennings,2011,NHL,,1944
+alfreda01,King Clancy,2011,NHL,,1945
+campbbr02,Lady Byng,2011,NHL,,1946
+malkiev01,Lindsay,2011,NHL,,1947
+pacioma01,Masterton,2011,NHL,,1948
+doansh01,Messier,2011,NHL,,1949
+karlser01,Norris,2011,NHL,,1950
+bergepa01,Plus-Minus,2011,NHL,,1951
+stamkst01,Richard,2011,NHL,,1952
+charazd01,Second Team All-Star,2011,NHL,D,1953
+gaborma01,Second Team All-Star,2011,NHL,RW,1954
+pietral01,Second Team All-Star,2011,NHL,D,1955
+quickjo01,Second Team All-Star,2011,NHL,G,1956
+stamkst01,Second Team All-Star,2011,NHL,C,1957
+whitnra01,Second Team All-Star,2011,NHL,LW,1958
+bergepa01,Selke,2011,NHL,,1959
+lundqhe01,Vezina,2011,NHL,,1960
+hullbo01,Davidson,1972,WHA,,1961
+hampste01,Deneau,1972,WHA,,1962
+cheevge01,First Team All-Star,1972,WHA,G,1963
+hullbo01,First Team All-Star,1972,WHA,LW,1964
+lacroan01,First Team All-Star,1972,WHA,C,1965
+lawsoda01,First Team All-Star,1972,WHA,RW,1966
+shmyrpa01,First Team All-Star,1972,WHA,D,1967
+trembjc01,First Team All-Star,1972,WHA,D,1968
+cheevge01,Hatskin,1972,WHA,,1969
+lacroan01,Hunter,1972,WHA,,1970
+caffete01,Kaplan,1972,WHA,,1971
+trembjc01,Murphy,1972,WHA,,1972
+doreyji01,Second Team All-Star,1972,WHA,D,1973
+hornula01,Second Team All-Star,1972,WHA,D,1974
+jarrega01,Second Team All-Star,1972,WHA,LW,1975
+parenbe01,Second Team All-Star,1972,WHA,G,1976
+wardro01,Second Team All-Star,1972,WHA,C,1977
+webstto01,Second Team All-Star,1972,WHA,RW,1978
+howego01,Davidson,1973,WHA,,1979
+backsra01,Deneau,1973,WHA,,1980
+howego01,First Team All-Star,1973,WHA,RW,1981
+hullbo01,First Team All-Star,1973,WHA,LW,1982
+lacroan01,First Team All-Star,1973,WHA,C,1983
+mcleodo01,First Team All-Star,1973,WHA,G,1984
+shmyrpa01,First Team All-Star,1973,WHA,D,1985
+staplpa01,First Team All-Star,1973,WHA,D,1986
+mcleodo01,Hatskin,1973,WHA,,1987
+waltomi01,Hunter,1973,WHA,,1988
+howema01,Kaplan,1973,WHA,,1989
+staplpa01,Murphy,1973,WHA,,1990
+carlewa01,Second Team All-Star,1973,WHA,C,1991
+cheevge01,Second Team All-Star,1973,WHA,G,1992
+hamilal01,Second Team All-Star,1973,WHA,D,1993
+howema01,Second Team All-Star,1973,WHA,LW,1994
+trembjc01,Second Team All-Star,1973,WHA,D,1995
+waltomi01,Second Team All-Star,1973,WHA,RW,1996
+rogermi01,Deneau,1974,WHA,,1997
+graharo02,First Team All-Star,1974,WHA,G,1998
+howego01,First Team All-Star,1974,WHA,RW,1999
+hullbo01,First Team All-Star,1974,WHA,LW,2000
+lacroan01,First Team All-Star,1974,WHA,C,2001
+morrike01,First Team All-Star,1974,WHA,D,2002
+trembjc01,First Team All-Star,1974,WHA,D,2003
+graharo02,Hatskin,1974,WHA,,2004
+hullbo01,Howe,1974,WHA,,2005
+lacroan01,Hunter,1974,WHA,,2006
+hedbean01,Kaplan,1974,WHA,,2007
+trembjc01,Murphy,1974,WHA,,2008
+graharo02,Playoff MVP,1974,WHA,,2009
+bernise01,Second Team All-Star,1974,WHA,C,2010
+cheevge01,Second Team All-Star,1974,WHA,G,2011
+hedbean01,Second Team All-Star,1974,WHA,RW,2012
+longba01,Second Team All-Star,1974,WHA,D,2013
+popiepo01,Second Team All-Star,1974,WHA,D,2014
+tardima01,Second Team All-Star,1974,WHA,LW,2015
+nedomva01,Deneau,1975,WHA,,2016
+daleyjo01,First Team All-Star,1975,WHA,G,2017
+hedbean01,First Team All-Star,1975,WHA,RW,2018
+nilssul01,First Team All-Star,1975,WHA,C,2019
+shmyrpa01,First Team All-Star,1975,WHA,D,2020
+tardima01,First Team All-Star,1975,WHA,LW,2021
+trembjc01,First Team All-Star,1975,WHA,D,2022
+dionmi01,Hatskin,1975,WHA,,2023
+tardima01,Howe,1975,WHA,,2024
+tardima01,Hunter,1975,WHA,,2025
+napiema01,Kaplan,1975,WHA,,2026
+shmyrpa01,Murphy,1975,WHA,,2027
+nilssul01,Playoff MVP,1975,WHA,,2028
+cloutre01,Second Team All-Star,1975,WHA,RW,2029
+ftorero01,Second Team All-Star,1975,WHA,C,2030
+graharo02,Second Team All-Star,1975,WHA,G,2031
+hullbo01,Second Team All-Star,1975,WHA,LW,2032
+morrike01,Second Team All-Star,1975,WHA,D,2033
+staplpa01,Second Team All-Star,1975,WHA,D,2034
+keonda01,Deneau,1976,WHA,,2035
+ftorero01,First Team All-Star,1976,WHA,C,2036
+garrejo01,First Team All-Star,1976,WHA,G,2037
+hedbean01,First Team All-Star,1976,WHA,RW,2038
+plumbro01,First Team All-Star,1976,WHA,D,2039
+popiepo01,First Team All-Star,1976,WHA,D,2040
+tardima01,First Team All-Star,1976,WHA,LW,2041
+graharo02,Hatskin,1976,WHA,,2042
+ftorero01,Howe,1976,WHA,,2043
+cloutre01,Hunter,1976,WHA,,2044
+lylege01,Kaplan,1976,WHA,,2045
+plumbro01,Murphy,1976,WHA,,2046
+bernise01,Playoff MVP,1976,WHA,,2047
+antonmi01,Second Team All-Star,1976,WHA,LW,2048
+cloutre01,Second Team All-Star,1976,WHA,RW,2049
+daleyjo01,Second Team All-Star,1976,WHA,G,2050
+hoganda01,Second Team All-Star,1976,WHA,D,2051
+leducri01,Second Team All-Star,1976,WHA,C,2052
+staplpa01,Second Team All-Star,1976,WHA,D,2053
+keonda01,Deneau,1977,WHA,,2054
+hamilal01,First Team All-Star,1977,WHA,D,2055
+hedbean01,First Team All-Star,1977,WHA,RW,2056
+nilssul01,First Team All-Star,1977,WHA,C,2057
+sjobela01,First Team All-Star,1977,WHA,D,2058
+smithal02,First Team All-Star,1977,WHA,G,2059
+tardima01,First Team All-Star,1977,WHA,LW,2060
+smithal02,Hatskin,1977,WHA,,2061
+tardima01,Howe,1977,WHA,,2062
+tardima01,Hunter,1977,WHA,,2063
+nilsske01,Kaplan,1977,WHA,,2064
+sjobela01,Murphy,1977,WHA,,2065
+guindbo01,Playoff MVP,1977,WHA,,2066
+cloutre01,Second Team All-Star,1977,WHA,RW,2067
+ftorero01,Second Team All-Star,1977,WHA,C,2068
+hullbo01,Second Team All-Star,1977,WHA,LW,2069
+leyri01,Second Team All-Star,1977,WHA,D,2070
+longba01,Second Team All-Star,1977,WHA,D,2071
+wakeler01,Second Team All-Star,1977,WHA,G,2072
+nilsske01,Deneau,1978,WHA,,2073
+cloutre01,First Team All-Star,1978,WHA,RW,2074
+drydeda01,First Team All-Star,1978,WHA,G,2075
+ftorero01,First Team All-Star,1978,WHA,C,2076
+howema01,First Team All-Star,1978,WHA,LW,2077
+leyri01,First Team All-Star,1978,WHA,D,2078
+ramagro01,First Team All-Star,1978,WHA,D,2079
+drydeda01,Hatskin,1978,WHA,,2080
+drydeda01,Howe,1978,WHA,,2081
+cloutre01,Hunter,1978,WHA,,2082
+gretzwa01,Kaplan,1978,WHA,,2083
+leyri01,Murphy,1978,WHA,,2084
+prestri01,Playoff MVP,1978,WHA,,2085
+broderi01,Second Team All-Star,1978,WHA,G,2086
+gretzwa01,Second Team All-Star,1978,WHA,C,2087
+langeda01,Second Team All-Star,1978,WHA,D,2088
+lukowmo01,Second Team All-Star,1978,WHA,LW,2089
+macdobl01,Second Team All-Star,1978,WHA,RW,2090
+shmyrpa01,Second Team All-Star,1978,WHA,D,2091
