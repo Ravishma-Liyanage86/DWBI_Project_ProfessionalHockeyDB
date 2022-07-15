@@ -1,0 +1,242 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="7834a5bb-da82-44a6-ae9c-f30615dc50ad" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Dim Awards</ID>
+  <Name>Dim Awards</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="5db8b50e-e415-4321-9e33-d0160deacd29">
+    <DataSourceViewID>DSV_Professional_Hockey_DW</DataSourceViewID>
+  </Source>
+  <UnknownMember>Visible</UnknownMember>
+  <ErrorConfiguration dwd:design-time-name="20a9c006-9528-4237-a306-994980a6d5a0">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="570ed1d0-0229-449a-abe5-8c47a862ebfe">
+      <ID>Award SK</ID>
+      <Name>Award SK</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="33a486eb-eeab-4faf-8e7a-dac7489dff11">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="1ba70fb8-f255-44b8-ae96-730054e0b90a">
+            <TableID>dbo_DimAwards</TableID>
+            <ColumnID>AwardSK</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="8fd4f8b0-f55c-433b-ac1d-d1216addbd79">
+          <AttributeID>Alternative Award ID</AttributeID>
+          <Name>Alternative Award ID</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="db8d0825-2d13-4908-878a-5f286444d299">
+          <AttributeID>Award</AttributeID>
+          <Name>Award</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="3eca0748-3887-4ec8-a9fd-466b0901467a">
+          <AttributeID>Year Win</AttributeID>
+          <Name>Year Win</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="e1de4872-b294-49ef-970b-5dfa5d1ad2da">
+          <AttributeID>Lg ID</AttributeID>
+          <Name>Lg ID</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="dbbd794a-713e-448a-bfe7-3c9349b896cb">
+          <AttributeID>Pos</AttributeID>
+          <Name>Pos</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="ed52dd06-2f7a-48e3-990d-57dff25527fd">
+          <AttributeID>Insert Date</AttributeID>
+          <Name>Insert Date</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="1421e1b7-867e-4dc1-9a5d-7b668a2b5725">
+          <AttributeID>Modified Date</AttributeID>
+          <Name>Modified Date</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="5d08d108-b8f6-4f29-ae44-c003c782871a">
+          <AttributeID>PlayerIDKey</AttributeID>
+          <Name>PlayerIDKey</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="36b5f454-db0d-4d8d-ba58-d21b55f0cf21">
+      <ID>Alternative Award ID</ID>
+      <Name>Alternative Award ID</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="83068bf1-524e-47ed-8eb9-6f4a61a5492d">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="6cd2f2e5-24f7-4b2a-a02e-82a290b8d8bb">
+            <TableID>dbo_DimAwards</TableID>
+            <ColumnID>AlternativeAwardID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="39714d42-77c0-47f7-8959-96ffb2a89a37">
+      <ID>Award</ID>
+      <Name>Award</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="2baa0561-f891-484a-ac10-4e0663a6b51f">
+          <DataType>WChar</DataType>
+          <DataSize>60</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e53039c0-c5e8-4829-ba65-dcde37462ee4">
+            <TableID>dbo_DimAwards</TableID>
+            <ColumnID>award</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="48fe8593-e045-4e9b-a32b-dcf19b854769">
+      <ID>Year Win</ID>
+      <Name>Year Win</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="40284360-6023-4434-9e6a-4c538868ebab">
+          <DataType>WChar</DataType>
+          <DataSize>60</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="5238131f-ac57-4187-a7ef-5d4e2d6bc612">
+            <TableID>dbo_DimAwards</TableID>
+            <ColumnID>YearWin</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="17c3ee13-d61a-4530-bdac-3aa1a390dd74">
+      <ID>Lg ID</ID>
+      <Name>Lg ID</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="7acaa4b2-2ea0-480b-9703-7d632bdf9077">
+          <DataType>WChar</DataType>
+          <DataSize>60</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="5bd4ac3a-7ca7-41af-89f0-b09716e78836">
+            <TableID>dbo_DimAwards</TableID>
+            <ColumnID>LgID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="3e146ea7-df31-450c-86d8-b6503738bbb0">
+      <ID>Pos</ID>
+      <Name>Pos</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a5b11c96-cb0d-4592-891b-34cf2e72311f">
+          <DataType>WChar</DataType>
+          <DataSize>60</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="af246216-8703-4ca3-b38f-08075c06b885">
+            <TableID>dbo_DimAwards</TableID>
+            <ColumnID>Pos</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="8333c25c-4008-49a4-96b5-68adb2dc31e5">
+      <ID>Insert Date</ID>
+      <Name>Insert Date</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a084eaae-f72f-4969-acc8-fc5a0dc1a491">
+          <DataType>Date</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="4e856beb-a0d1-4aa0-84cf-7d51a84b9956">
+            <TableID>dbo_DimAwards</TableID>
+            <ColumnID>InsertDate</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="0687b2d8-722f-41e1-bb68-4b827a966025">
+      <ID>Modified Date</ID>
+      <Name>Modified Date</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="96478992-3cb6-49fa-b3c0-1a9b1dbd65cb">
+          <DataType>Date</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="82d39f75-7a4d-453e-9189-94c36501e0c0">
+            <TableID>dbo_DimAwards</TableID>
+            <ColumnID>ModifiedDate</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="88d1370d-cddc-4644-ba9d-bc6de85382fa">
+      <ID>PlayerIDKey</ID>
+      <Name>PlayerIDKey</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4612912f-ed0e-4963-85d1-9f32e1458e4e">
+          <DataType>Integer</DataType>
+          <NullProcessing>UnknownMember</NullProcessing>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a157348b-bee4-40f0-8f80-c2eada2aeb66">
+            <TableID>dbo_DimPlayers</TableID>
+            <ColumnID>PlayerSK</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>
